@@ -32,8 +32,3 @@ scripts/                   -> helper scripts (e.g. YouTube API pull)
 - **Gold**: star schema — `dim_video`, `dim_channel`, `dim_category`, `dim_region`,
   `dim_date`, `fact_video_daily_stats`, plus rollups `daily_category_trends` and
   `region_trending_summary`.
-
-## Dashboard
-Power BI, three views: trending category mix by region (stacked bar), engagement
-velocity over consecutive snapshot days (line), and cross-region category overlap
-(heatmap).
