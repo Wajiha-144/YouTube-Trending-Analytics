@@ -1,0 +1,4148 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "LaY6K1krqVbyeRGA78xrS97B3iw",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "NDtygCBhLmmrGFz_XFfkyvaZcp4",
+      "id": "XUcXLx7nICQ",
+      "snippet": {
+        "publishedAt": "2026-09-26T15:00:28Z",
+        "channelId": "UCF1QpivnnDnbM85kPbR-sWA",
+        "title": "Zé Vaqueiro, Paula Fernandes - Traidor (Clipe Oficial)",
+        "description": "O clipe oficial de “Traidor” chegou! 💎🔥 Aperta o play e confira!\n\nZé Vaqueiro & Paula Fernandes | Traidor\n\n#traidor \n #zévaqueiro #paulafernandes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XUcXLx7nICQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XUcXLx7nICQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XUcXLx7nICQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XUcXLx7nICQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XUcXLx7nICQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zé Vaqueiro",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt",
+        "localized": {
+          "title": "Zé Vaqueiro, Paula Fernandes - Traidor (Clipe Oficial)",
+          "description": "O clipe oficial de “Traidor” chegou! 💎🔥 Aperta o play e confira!\n\nZé Vaqueiro & Paula Fernandes | Traidor\n\n#traidor \n #zévaqueiro #paulafernandes"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT3M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "145776",
+        "likeCount": "8074",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "So72aLE2bunyGXhFzgSPG8NS9xw",
+      "id": "wj-CsHbsYzg",
+      "snippet": {
+        "publishedAt": "2026-09-26T15:00:12Z",
+        "channelId": "UCwhVCdYsd-A32RECPqJUoPg",
+        "title": "Lobis-Homem | Trailer 2 Oficial - HD",
+        "description": "2027 nos cinemas.\nCurta a Universal Pictures no Facebook: https://www.facebook.com/UniversalPicturesBR/\nSiga nosso perfil no Instagram: https://www.instagram.com/universalpicsbr/\nSiga nosso perfil no X: https://x.com/UniversalPicsBr\nSiga nosso perfil no TikTok: https://www.tiktok.com/@universalpicsbr\nhttp://www.lobishomemfilme.com.br\n#LobisHomemFilme\n\nDireção: Robert Eggers\nRoteiro: Robert Eggers, Sjón\nProdução: Robert Eggers p.g.a., Tim Bevan, Eric Fellner, Garrett Bird, p.g.a., Sjón \nProdução Executiva: Chris Columbus, Eleanor Columbus, Bernard Bellew\nElenco: Aaron Taylor-Johnson, Willem Dafoe, Lily-Rose Depp\n\nVocê vai assistir ao filme mais visceral e assombroso de Robert Eggers no cinema. A Focus Features apresenta LOBIS-HOMEM, uma diabólica história de devoção e expiação.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wj-CsHbsYzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wj-CsHbsYzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wj-CsHbsYzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wj-CsHbsYzg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wj-CsHbsYzg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/wj-CsHbsYzg/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Universal Pictures Brasil",
+        "tags": [
+          "Filme",
+          "Drama",
+          "Universal Pictures",
+          "Focus Features",
+          "Aaron Taylor-Johnson",
+          "Willem Dafoe",
+          "Lily Rose Depp",
+          "Robert Eggers",
+          "Lobis-Homem",
+          "Werwulf"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Lobis-Homem | Trailer 2 Oficial - HD",
+          "description": "2027 nos cinemas.\nCurta a Universal Pictures no Facebook: https://www.facebook.com/UniversalPicturesBR/\nSiga nosso perfil no Instagram: https://www.instagram.com/universalpicsbr/\nSiga nosso perfil no X: https://x.com/UniversalPicsBr\nSiga nosso perfil no TikTok: https://www.tiktok.com/@universalpicsbr\nhttp://www.lobishomemfilme.com.br\n#LobisHomemFilme\n\nDireção: Robert Eggers\nRoteiro: Robert Eggers, Sjón\nProdução: Robert Eggers p.g.a., Tim Bevan, Eric Fellner, Garrett Bird, p.g.a., Sjón \nProdução Executiva: Chris Columbus, Eleanor Columbus, Bernard Bellew\nElenco: Aaron Taylor-Johnson, Willem Dafoe, Lily-Rose Depp\n\nVocê vai assistir ao filme mais visceral e assombroso de Robert Eggers no cinema. A Focus Features apresenta LOBIS-HOMEM, uma diabólica história de devoção e expiação."
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT2M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "111237",
+        "likeCount": "4061",
+        "favoriteCount": "0",
+        "commentCount": "286"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5kfECMoX0yzfPsz9Pyh3yN13vRY",
+      "id": "f7YE-OUqAvw",
+      "snippet": {
+        "publishedAt": "2026-09-26T22:07:50Z",
+        "channelId": "UCiIZY89KwQkxAW-4Le7U7zg",
+        "title": "ALMOLED no Minecraft - Em busca da casa automática #402",
+        "description": "A Versão 7.1 do Genshin Impact chegou! 🎉\nDescubra a nova Versão 7.1, com novos personagens, novos conteúdos de história e recompensas especiais de aniversário!\n🎁 Use o código: DU0HJ5VA00BM\n🔗 Jogue Genshin Impact: https://hoyo.link/8LyKbo6fL\n#GenshinImpact #StoriesofFrostSnow\n\n+ Episódios: http://www.youtube.com/playlist?feature=edit_ok&list=PLD40851E0E52E9080\n\nCanal do Davi: https://www.youtube.com/user/HDDavigamer\n\nTwitter: https://twitter.com/#!/viniccius13\nInstagram: https://www.instagram.com/viniccius13/\nEmail(contato profissional): viniccius13contato@gmail.com\n\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nViniccius13",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f7YE-OUqAvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f7YE-OUqAvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f7YE-OUqAvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f7YE-OUqAvw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f7YE-OUqAvw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/f7YE-OUqAvw/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "viniccius13",
+        "tags": [
+          "minecraft",
+          "tutorial",
+          "repeater",
+          "repeaters",
+          "repetidor",
+          "repetidores",
+          "piston",
+          "pistons",
+          "pistao",
+          "pistoes",
+          "redstone",
+          "red",
+          "stone",
+          "pedra",
+          "vermelha",
+          "po",
+          "vermelho",
+          "stick",
+          "slime",
+          "viniccius13",
+          "vinicios13",
+          "vinicius13",
+          "viniccius",
+          "13",
+          "vinicius",
+          "vinicios",
+          "pt-br",
+          "pt",
+          "br",
+          "brasil",
+          "brazil",
+          "em",
+          "busca",
+          "da",
+          "casa",
+          "automatica",
+          "led",
+          "almoled",
+          "almofada",
+          "ep402",
+          "402",
+          "#402"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "ALMOLED no Minecraft - Em busca da casa automática #402",
+          "description": "A Versão 7.1 do Genshin Impact chegou! 🎉\nDescubra a nova Versão 7.1, com novos personagens, novos conteúdos de história e recompensas especiais de aniversário!\n🎁 Use o código: DU0HJ5VA00BM\n🔗 Jogue Genshin Impact: https://hoyo.link/8LyKbo6fL\n#GenshinImpact #StoriesofFrostSnow\n\n+ Episódios: http://www.youtube.com/playlist?feature=edit_ok&list=PLD40851E0E52E9080\n\nCanal do Davi: https://www.youtube.com/user/HDDavigamer\n\nTwitter: https://twitter.com/#!/viniccius13\nInstagram: https://www.instagram.com/viniccius13/\nEmail(contato profissional): viniccius13contato@gmail.com\n\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n\nViniccius13"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT35M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1135691",
+        "likeCount": "104491",
+        "favoriteCount": "0",
+        "commentCount": "4443"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XgI7_DnHFVqBWALX8i_koGpVYxY",
+      "id": "aYrkEZrvHlM",
+      "snippet": {
+        "publishedAt": "2026-09-26T13:00:10Z",
+        "channelId": "UC0gBFaTGbfV8WUvE1b6SJlQ",
+        "title": "HEITOR SANTOS - SABOR HS 4.0 | REPERTÓRIO 100% NOVO DE ARROCHA",
+        "description": "🔔 Inscreva-se → https://www.youtube.com/@Sucessosdoforr%C3%B3-z2j?sub_confirmation=1\n\n🤠 Forró Atualizado → https://www.youtube.com/watch?v=Gr6-I-p6-sM&list=PLX5byhGC4CdbbJOGEW_kJunAeE8vZAKwn\n🌟 Virais do Momento → https://www.youtube.com/watch?v=wQ4b14xa6aY&list=PLEEpFJla6G4tEm-PIVWcb9xFX9D9lXv8P\n🐂 Forró de Vaquejada → https://www.youtube.com/watch?v=0phPO0jKF3c&list=PLfngVhyINRDwflgpw5EGAA_1AwGRK9AOp\n💔 Arrocha Pra Sofrer → https://www.youtube.com/watch?v=1K2aqG7FGHg&list=PLQmkTD9kUjF0W2SWYefTBiBHnbLLR4Vwu\n🕰️ Forró das Antigas → https://www.youtube.com/watch?v=r0a3L_fIiWo&list=PLJOka2g1dQJTrTvkRimTeOMt08DCEkYCT\n🔥 Piseiro Pra Paredão → https://www.youtube.com/watch?v=ZcbY6QX3Xbo&list=PLhvDDwtmTPfzVHxIL-CbfHyqMMcEeeTNy\n🎭 Brega Antigo → https://www.youtube.com/watch?v=xi2lyH5aLvs&list=PLXkSC9VldIrXVX11PfLEn59tAHNN7BWy3\n🪕 Sertanejo Antigas → https://www.youtube.com/watch?v=OQevGa3McJc&list=PLWD2Fqvg2EWJQqJ8Wvh-O_ndG_xJ6vmRK\n\n▶️ Playlist Oficial → https://open.spotify.com/playlist/3hxuokXIanHyLjFcbLI0et?si=XNrEbyh9SrWR2sn2-jUh7A\n\n#Forro #Forro2026 #ForroDeParedão #ForroAtualizado #ForroNovo #MusicasDeForro #ForroRomantico #ForroRaiz #ForroAoVivo #Piseiro #Piseiro2026 #Arrocha #Arrocha2026 #Vaquejada #Vaquejada2026 #Musicas2026 #MusicaNova #Lancamento2026 #Hit2026 #TikTok2026 #Viral2026 #DanceSeSouber #AsMaisTocadas #TopMusicas #YouTubeShorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aYrkEZrvHlM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aYrkEZrvHlM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aYrkEZrvHlM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aYrkEZrvHlM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aYrkEZrvHlM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sucessos do Forró",
+        "tags": [
+          "forro",
+          "forroatualizado",
+          "forrobrasil",
+          "maistocadas",
+          "musicasemalta",
+          "hitsdomomento",
+          "playlistforro",
+          "forronordestino",
+          "resenha",
+          "barzinho",
+          "joaogomes",
+          "nattan",
+          "zevaqueiro",
+          "tarcisiodoacordeon",
+          "vitorfernandes",
+          "forroemalta",
+          "selecaoforro",
+          "forro2026",
+          "somdobrasil",
+          "pratomaruma"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "HEITOR SANTOS - SABOR HS 4.0 | REPERTÓRIO 100% NOVO DE ARROCHA",
+          "description": "🔔 Inscreva-se → https://www.youtube.com/@Sucessosdoforr%C3%B3-z2j?sub_confirmation=1\n\n🤠 Forró Atualizado → https://www.youtube.com/watch?v=Gr6-I-p6-sM&list=PLX5byhGC4CdbbJOGEW_kJunAeE8vZAKwn\n🌟 Virais do Momento → https://www.youtube.com/watch?v=wQ4b14xa6aY&list=PLEEpFJla6G4tEm-PIVWcb9xFX9D9lXv8P\n🐂 Forró de Vaquejada → https://www.youtube.com/watch?v=0phPO0jKF3c&list=PLfngVhyINRDwflgpw5EGAA_1AwGRK9AOp\n💔 Arrocha Pra Sofrer → https://www.youtube.com/watch?v=1K2aqG7FGHg&list=PLQmkTD9kUjF0W2SWYefTBiBHnbLLR4Vwu\n🕰️ Forró das Antigas → https://www.youtube.com/watch?v=r0a3L_fIiWo&list=PLJOka2g1dQJTrTvkRimTeOMt08DCEkYCT\n🔥 Piseiro Pra Paredão → https://www.youtube.com/watch?v=ZcbY6QX3Xbo&list=PLhvDDwtmTPfzVHxIL-CbfHyqMMcEeeTNy\n🎭 Brega Antigo → https://www.youtube.com/watch?v=xi2lyH5aLvs&list=PLXkSC9VldIrXVX11PfLEn59tAHNN7BWy3\n🪕 Sertanejo Antigas → https://www.youtube.com/watch?v=OQevGa3McJc&list=PLWD2Fqvg2EWJQqJ8Wvh-O_ndG_xJ6vmRK\n\n▶️ Playlist Oficial → https://open.spotify.com/playlist/3hxuokXIanHyLjFcbLI0et?si=XNrEbyh9SrWR2sn2-jUh7A\n\n#Forro #Forro2026 #ForroDeParedão #ForroAtualizado #ForroNovo #MusicasDeForro #ForroRomantico #ForroRaiz #ForroAoVivo #Piseiro #Piseiro2026 #Arrocha #Arrocha2026 #Vaquejada #Vaquejada2026 #Musicas2026 #MusicaNova #Lancamento2026 #Hit2026 #TikTok2026 #Viral2026 #DanceSeSouber #AsMaisTocadas #TopMusicas #YouTubeShorts"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT32M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "30545",
+        "likeCount": "254",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RXamedbEKM6sXpnQNgsXUTVO-OQ",
+      "id": "z92GyhBYzgk",
+      "snippet": {
+        "publishedAt": "2026-09-26T15:30:07Z",
+        "channelId": "UCmF5w6pmvYfnMOqjQowgraA",
+        "title": "Agora AZEDOU! Quando vai sair o TRAILER de Poppy Playtime 6?",
+        "description": "Hoje vamos conferir um vídeo sobre o trailer de Poppy Playtime 6 e o possível adiamento do seu lançamento. Com o lançamento de Escape From Playtime parece que as estimativas de que o trailer de Poppy Playtime 6 seria lançado em breve se modificaram. Não temos mais noção de uma data exata para o trailer de Poppy Playtime 6 e muitos da comunidade estão preocupados com o que vai acontecer a seguir. Quando lança o trailer de Poppy Playtime 6?\n\nPoppy Playtime 6 continua sendo muito aguardado por grande parte da comunidade e muitos fãs já estão ficando ansiosos pois não temos muitas notícias de Poppy Playtime 6. A esperança é que em breve teríamos o lançamento do trailer de Poppy Playtime 6, mas isso parece que mudou com a chegada de Poppy Playtime 6!\n\nEntenda a confusão sobre a data de lançamento do trailer de Poppy PLaytime 6 e como Escape From Playtime impactou diretamente no lançamento do Capítulo 6 de Poppy Playtime!\n\n------------------------------------\nCanal secundário: www.youtube.com/channel/UCUc3Jzg_eRBcvz5ZgELkDbw?sub_confirmation=1\n------------------------------------\nContato:\n▶ terrorizandomaximus@gmail.com\n\nRedes Sociais:\n▶ https://www.instagram.com/canalterrorizando\n▶ https://www.tiktok.com/@canalterrorizando\n▶ https://twitter.com/terrorizando\n▶ https://discord.com/invite/canal-terrorizando\n▶ https://linktr.ee/terrorizando",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z92GyhBYzgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z92GyhBYzgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z92GyhBYzgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z92GyhBYzgk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z92GyhBYzgk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Terrorizando",
+        "tags": [
+          "terrorizando",
+          "poppy playtime",
+          "poppy playtime 6",
+          "poppy 6",
+          "poppy playtime chapter 6",
+          "poppy playtime 6 trailer",
+          "poppy playtime 6 teoria",
+          "poppy playtime 6 gameplay",
+          "poppy playtime chapter 6 gameplay",
+          "poppy 6 teorias",
+          "poppy 6 trailer",
+          "trailer poppy playtime 6",
+          "teaser poppy playtime 6",
+          "poppy playtime 6 teaser",
+          "poppy 6 teaser",
+          "poppy playtime 6 teaser trailer",
+          "poppy playtime 6 data",
+          "poppy playtime 6 data trailer",
+          "poppy playtime 6 trailer oficial",
+          "poppy 6 trailer oficial",
+          "poppy",
+          "popyp"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "Agora AZEDOU! Quando vai sair o TRAILER de Poppy Playtime 6?",
+          "description": "Hoje vamos conferir um vídeo sobre o trailer de Poppy Playtime 6 e o possível adiamento do seu lançamento. Com o lançamento de Escape From Playtime parece que as estimativas de que o trailer de Poppy Playtime 6 seria lançado em breve se modificaram. Não temos mais noção de uma data exata para o trailer de Poppy Playtime 6 e muitos da comunidade estão preocupados com o que vai acontecer a seguir. Quando lança o trailer de Poppy Playtime 6?\n\nPoppy Playtime 6 continua sendo muito aguardado por grande parte da comunidade e muitos fãs já estão ficando ansiosos pois não temos muitas notícias de Poppy Playtime 6. A esperança é que em breve teríamos o lançamento do trailer de Poppy Playtime 6, mas isso parece que mudou com a chegada de Poppy Playtime 6!\n\nEntenda a confusão sobre a data de lançamento do trailer de Poppy PLaytime 6 e como Escape From Playtime impactou diretamente no lançamento do Capítulo 6 de Poppy Playtime!\n\n------------------------------------\nCanal secundário: www.youtube.com/channel/UCUc3Jzg_eRBcvz5ZgELkDbw?sub_confirmation=1\n------------------------------------\nContato:\n▶ terrorizandomaximus@gmail.com\n\nRedes Sociais:\n▶ https://www.instagram.com/canalterrorizando\n▶ https://www.tiktok.com/@canalterrorizando\n▶ https://twitter.com/terrorizando\n▶ https://discord.com/invite/canal-terrorizando\n▶ https://linktr.ee/terrorizando"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT25M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "44939",
+        "likeCount": "2238",
+        "favoriteCount": "0",
+        "commentCount": "158"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LlV3BdOTsOJZSLm5D72B8cehByw",
+      "id": "HhJEW8NK7Qs",
+      "snippet": {
+        "publishedAt": "2026-09-27T01:59:04Z",
+        "channelId": "UCo3LZAaR6Q8Tna6JSkz107Q",
+        "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶",
+        "description": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶\n💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶\n💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶\n\n--------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HhJEW8NK7Qs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HhJEW8NK7Qs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HhJEW8NK7Qs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HhJEW8NK7Qs/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HhJEW8NK7Qs/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vortex Melody",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶",
+          "description": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶\n💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶\n💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶\n\n--------------------------------------------------------"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT1H2M31S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "VN"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "42993",
+        "likeCount": "785",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QJse39cPvnFbdmyox6hd2u9S5ko",
+      "id": "ZojDzYKnU1o",
+      "snippet": {
+        "publishedAt": "2026-09-27T06:54:16Z",
+        "channelId": "UC7ktB55NdCnoqFhGcpQ-Q5g",
+        "title": "KATSEYE - Animal (Live from Saturday Night Live)",
+        "description": "KATSEYE’s ‘WILD’ EP out now: https://KATSEYE.lnk.to/WILD   \nWatch the Animal official music video: https://katseye.lnk.to/AnimalVideo\n  \nShop KATSEYE: https://KATSEYE.lnk.to/Shop\n\nFollow KATSEYE\nInstagram: https://www.instagram.com/katseyeworld/    \nTikTok: https://www.tiktok.com/@katseyeworld   \nTwitter: https://twitter.com/katseyeworld    \nWeverse: https://weverse.io/katseye/feed  \nYouTube: https://www.youtube.com/@katseyeworld  \nOfficial Website: https://Katseye.world  \nNewsletter: https://KATSEYE.lnk.to/SignUpID",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZojDzYKnU1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZojDzYKnU1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZojDzYKnU1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZojDzYKnU1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZojDzYKnU1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KATSEYEVEVO",
+        "tags": [
+          "KATSEYE",
+          "IGA",
+          "Pop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "KATSEYE - Animal (Live from Saturday Night Live)",
+          "description": "KATSEYE’s ‘WILD’ EP out now: https://KATSEYE.lnk.to/WILD   \nWatch the Animal official music video: https://katseye.lnk.to/AnimalVideo\n  \nShop KATSEYE: https://KATSEYE.lnk.to/Shop\n\nFollow KATSEYE\nInstagram: https://www.instagram.com/katseyeworld/    \nTikTok: https://www.tiktok.com/@katseyeworld   \nTwitter: https://twitter.com/katseyeworld    \nWeverse: https://weverse.io/katseye/feed  \nYouTube: https://www.youtube.com/@katseyeworld  \nOfficial Website: https://Katseye.world  \nNewsletter: https://KATSEYE.lnk.to/SignUpID"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "478560",
+        "likeCount": "28818",
+        "favoriteCount": "0",
+        "commentCount": "3266"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Cd2L2uoIH2oqk-T58QtA7qN9sg4",
+      "id": "4w210R3_Jr0",
+      "snippet": {
+        "publishedAt": "2026-09-26T22:00:06Z",
+        "channelId": "UCYuK2WwKzjyo62euoeqwb6w",
+        "title": "FIM DO MUNDO (ALBUM TRAILER)",
+        "description": "Faça o pré-save do álbum: https://open.spotify.com/prerelease/2SmZi2NYwqsxoXz2Hqnc8U\n\nTeaser\nDireção: Julie Braganholo\nDireção Criativa: Tom Filho, Vitória Londero\nDireção de Arte: Sara Lopes\nIdentidade Visual: Vitória Londero\nRoteiro: Tom Filho, Julie Braganholo, Vitória Londero\nProdução de Moda: Sara Lopes\nStyling: Sara Lopes\nPós-Produção e Edição: Joca\n\nFotografia\nFotografia Still e Divulgação: Julie Braganholo, Sara Lopes, Vitória Londero\nCapa: Edson Bailey\n\nManagement e Supervisão Geral\nNico Braganholo\n\nLabel\nALT Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4w210R3_Jr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4w210R3_Jr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4w210R3_Jr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4w210R3_Jr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4w210R3_Jr0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tom Filho",
+        "tags": [
+          "tom filho",
+          "musica",
+          "cantor",
+          "nem todo mundo",
+          "sétimo andar",
+          "ruim",
+          "mundo torajo"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "FIM DO MUNDO (ALBUM TRAILER)",
+          "description": "Faça o pré-save do álbum: https://open.spotify.com/prerelease/2SmZi2NYwqsxoXz2Hqnc8U\n\nTeaser\nDireção: Julie Braganholo\nDireção Criativa: Tom Filho, Vitória Londero\nDireção de Arte: Sara Lopes\nIdentidade Visual: Vitória Londero\nRoteiro: Tom Filho, Julie Braganholo, Vitória Londero\nProdução de Moda: Sara Lopes\nStyling: Sara Lopes\nPós-Produção e Edição: Joca\n\nFotografia\nFotografia Still e Divulgação: Julie Braganholo, Sara Lopes, Vitória Londero\nCapa: Edson Bailey\n\nManagement e Supervisão Geral\nNico Braganholo\n\nLabel\nALT Music"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT1M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13300",
+        "likeCount": "1711",
+        "favoriteCount": "0",
+        "commentCount": "1130"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Bgm2ne8FJYOWvPxdu4r4Z__AENQ",
+      "id": "Irzj3F0u0Sw",
+      "snippet": {
+        "publishedAt": "2026-09-27T11:00:28Z",
+        "channelId": "UCJnH5Ph5O1EZhKiKiNgH9IA",
+        "title": "Only BOSSES Get A DATE In Steal an Egg!",
+        "description": "👊 Hey there! My name is Zoomy!\n\n📩 media@protagames.com\n\n⚡ LIKE if you love Steal a Brainrot!\n💬 COMMENT your favorite BRAINROT! 🔥\n📌 SUBSCRIBE for more insane videos! 🏴\u200d☠️\n\n#StealaBrainrot #RobloxShorts #StealaBrainrotShorts #StealaBrainrotUpdate #Roblox",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Irzj3F0u0Sw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Irzj3F0u0Sw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Irzj3F0u0Sw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Irzj3F0u0Sw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Irzj3F0u0Sw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/Irzj3F0u0Sw/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Zoomy",
+        "tags": [
+          "Steal a Brainrot",
+          "StealABrainrot",
+          "Steal a Brainrot Shorts",
+          "Steal a Brainrot Roblox",
+          "Steal a Brainrot funny moments",
+          "Steal a Brainrot clips",
+          "Steal a Brainrot meme",
+          "Steal a Brainrot animation",
+          "Steal a Brainrot gameplay",
+          "Steal a Brainrot story",
+          "Steal a Brainrot edit",
+          "Steal a Brainrot compilation",
+          "Steal a Brainrot scenes",
+          "Steal a Brainrot reaction",
+          "Roblox Steal a Brainrot",
+          "Roblox Shorts",
+          "Roblox funny",
+          "Roblox meme",
+          "Roblox edit",
+          "Roblox animation",
+          "Roblox gameplay",
+          "Roblox short film"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Only BOSSES Get A DATE In Steal an Egg!",
+          "description": "👊 Hey there! My name is Zoomy!\n\n📩 media@protagames.com\n\n⚡ LIKE if you love Steal a Brainrot!\n💬 COMMENT your favorite BRAINROT! 🔥\n📌 SUBSCRIBE for more insane videos! 🏴\u200d☠️\n\n#StealaBrainrot #RobloxShorts #StealaBrainrotShorts #StealaBrainrotUpdate #Roblox"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT22M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "286565",
+        "likeCount": "4662",
+        "favoriteCount": "0",
+        "commentCount": "67"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "w3xuu6bg2HO3N4vk9m_pt58-3Rc",
+      "id": "xZc2tVzVk3U",
+      "snippet": {
+        "publishedAt": "2026-09-27T02:16:02Z",
+        "channelId": "UCVYCjb6Ugxk9yiHrQ8ZriAA",
+        "title": "Domingo 27 de setembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xZc2tVzVk3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xZc2tVzVk3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xZc2tVzVk3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xZc2tVzVk3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xZc2tVzVk3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Izael Lopes",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Domingo 27 de setembro - Izael Lopes | Bom dia Deus 🙏🏻",
+          "description": ""
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT3M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13538",
+        "likeCount": "1118",
+        "favoriteCount": "0",
+        "commentCount": "29"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MDC29cdx9OwHW-TmBFeOwlVuWDg",
+      "id": "twrZobrx0ZM",
+      "snippet": {
+        "publishedAt": "2026-09-27T04:00:36Z",
+        "channelId": "UC2PeMPA8PAOp-bynLoCeMLA",
+        "title": "Pearl Character Trailer: \"The Way to Paint a Form of Hope\" | Honkai: Star Rail",
+        "description": "Motif: What is perfect art?\nAs she wielded her pen for the fate of the world, she forgot the question, yet found the answer.\n\nEnglish Voice:\nPearl — Cat Protano\n\nDownload the Game\nhttps://hoyo.link/tvbtaMCLV\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Pearl",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/twrZobrx0ZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/twrZobrx0ZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/twrZobrx0ZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/twrZobrx0ZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/twrZobrx0ZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/twrZobrx0ZM/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Honkai: Star Rail",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Pearl Character Trailer: \"The Way to Paint a Form of Hope\" | Honkai: Star Rail",
+          "description": "Motif: What is perfect art?\nAs she wielded her pen for the fate of the world, she forgot the question, yet found the answer.\n\nEnglish Voice:\nPearl — Cat Protano\n\nDownload the Game\nhttps://hoyo.link/tvbtaMCLV\n\nFollow us to get the latest info.\nHoYoLAB: https://www.hoyolab.com/accountCenter/postList?id=172534910\nFacebook: https://www.facebook.com/HonkaiStarRail/\nX: https://twitter.com/honkaistarrail\nDiscord: https://discord.gg/honkaistarrail\nInstagram: https://www.instagram.com/honkaistarrail/\nTikTok: https://www.tiktok.com/@honkaistarrail_official\nReddit: https://www.reddit.com/r/HonkaiStarRail/\n\n#HonkaiStarRail\n#StarRail\n#Pearl"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "212676",
+        "likeCount": "13233",
+        "favoriteCount": "0",
+        "commentCount": "446"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pAPUgO8u1B3BSy2fV-1twRUxRZs",
+      "id": "QNjA2ijZqz0",
+      "snippet": {
+        "publishedAt": "2026-09-27T12:00:19Z",
+        "channelId": "UCbWYmIdZ2hpVMpPhRI9pI5Q",
+        "title": "Cadres Pediu sua CRUSH em CASAMENTO! 💍❤️",
+        "description": "🎁 Descubra o que tem na Caixa Misteriosa do Cadres! \nClique no link: https://www.2wave.com.br/produtos/mystery-box-cadres-1od2h/\n\n💚Compre já os PRODUTOS CADRES nas melhores lojas do Brasil ou clicando no link: https://loja.cadresstudio.com\n\n🛍️Quer mais opções? Confira também os produtos customizados do Cadres na 2WAVE: https://www.2wave.com.br/personagens/cadres/?mpage=2  \n---------\n🔸Instagram: https://www.instagram.com/cadresss/  \n🔹Twitter: https://twitter.com/Cadres19  \n----\n📩Contato comercial: comercial@agenciacurta.com  \n\n#minecraft #cadres",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QNjA2ijZqz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QNjA2ijZqz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QNjA2ijZqz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QNjA2ijZqz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QNjA2ijZqz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/QNjA2ijZqz0/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Cadres",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Cadres Pediu sua CRUSH em CASAMENTO! 💍❤️",
+          "description": "🎁 Descubra o que tem na Caixa Misteriosa do Cadres! \nClique no link: https://www.2wave.com.br/produtos/mystery-box-cadres-1od2h/\n\n💚Compre já os PRODUTOS CADRES nas melhores lojas do Brasil ou clicando no link: https://loja.cadresstudio.com\n\n🛍️Quer mais opções? Confira também os produtos customizados do Cadres na 2WAVE: https://www.2wave.com.br/personagens/cadres/?mpage=2  \n---------\n🔸Instagram: https://www.instagram.com/cadresss/  \n🔹Twitter: https://twitter.com/Cadres19  \n----\n📩Contato comercial: comercial@agenciacurta.com  \n\n#minecraft #cadres"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT18M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "55651",
+        "likeCount": "895",
+        "favoriteCount": "0",
+        "commentCount": "16"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cydtP_ovuiQsn_UrGSWgujBHqUE",
+      "id": "fEBtDYxkZoU",
+      "snippet": {
+        "publishedAt": "2026-09-25T17:14:07Z",
+        "channelId": "UCphr4yejnGroAUGAPuxvSow",
+        "title": "NUNCA VAI SER EU - Raí Saia Rodada e Wesley Safadão (Saia Rodada 25 Anos)",
+        "description": "Essa faixa faz parte do DVD Saia Rodada 25 Anos 🎺🎷\n\nOuça também nos aplicativos de música: https://SomLivre.lnk.to/25_Anos_Vol1_Ao_Vivo\n\nNUNCA VAI SER EU\nAutor: Saymon Marques\n\nSeu olhar não nega quando a gente se encontra\nVocê fica tensa, se entrega sem querer\nSei que não fala nada, mas eu sei que quer promessa\nSe quer saber, então vou te dizer\n\nVocê tá beijando uma boca que não é sua\nTá abraçando um corpo que nunca foi seu\nEle tá te iludindo, só pra te ver toda nua\nMas a verdade é que você nunca me esqueceu\n\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar mas nunca vai ser eu\nPorque seu coração ainda é meu\n\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar mas nunca vai ser eu\nPorque seu coração é meu\n\nSeu olhar não nega quando a gente se encontra\nVocê fica tensa, se entrega sem querer\nSei que não fala nada, mas eu sei que quer promessa\nSe quer saber, então vou te dizer\n\nVocê tá beijando a boca que não é sua\nAbraçando um corpo que nunca foi teu\nEle tá te iludindo, pra te ver toda nua\n\nEle tá no meu lugar mas nunca vai ser eu\n(Ele tá no meu lugar)\nEle tá no meu lugar mas nunca vai ser eu\nPorque seu coração ainda é meu\n\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar\nEle tá no meu lugar mas nunca vai ser eu\nPorque seu coração é meu\n\n(Ele tá no meu lugar) 3x\n\n_______________________________________\nAcompanhe nas redes sociais\nhttps://www.instagram.com/raisaiarodada/\nhttps://www.tiktok.com/@raisaiarodada\n_______________________________________\n\n#RaiSaiaRodada #WesleySafadão #SaiaRodada25Anos #NuncaVaiSerEu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fEBtDYxkZoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fEBtDYxkZoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fEBtDYxkZoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fEBtDYxkZoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fEBtDYxkZoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/fEBtDYxkZoU/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Raí Saia Rodada",
+        "tags": [
+          "Forró",
+          "Saia Rodada",
+          "Raí Soares",
+          "Descarada",
+          "Coelhinha",
+          "Whindesson Nunes"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "NUNCA VAI SER EU - Raí Saia Rodada e Wesley Safadão (Saia Rodada 25 Anos)",
+          "description": "Essa faixa faz parte do DVD Saia Rodada 25 Anos 🎺🎷\n\nOuça também nos aplicativos de música: https://SomLivre.lnk.to/25_Anos_Vol1_Ao_Vivo\n\nNUNCA VAI SER EU\nAutor: Saymon Marques\n\nSeu olhar não nega quando a gente se encontra\nVocê fica tensa, se entrega sem querer\nSei que não fala nada, mas eu sei que quer promessa\nSe quer saber, então vou te dizer\n\nVocê tá beijando uma boca que não é sua\nTá abraçando um corpo que nunca foi seu\nEle tá te iludindo, só pra te ver toda nua\nMas a verdade é que você nunca me esqueceu\n\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar mas nunca vai ser eu\nPorque seu coração ainda é meu\n\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar mas nunca vai ser eu\nPorque seu coração é meu\n\nSeu olhar não nega quando a gente se encontra\nVocê fica tensa, se entrega sem querer\nSei que não fala nada, mas eu sei que quer promessa\nSe quer saber, então vou te dizer\n\nVocê tá beijando a boca que não é sua\nAbraçando um corpo que nunca foi teu\nEle tá te iludindo, pra te ver toda nua\n\nEle tá no meu lugar mas nunca vai ser eu\n(Ele tá no meu lugar)\nEle tá no meu lugar mas nunca vai ser eu\nPorque seu coração ainda é meu\n\nEle tá no meu lugar mas nunca vai ser eu\nEle tá no meu lugar\nEle tá no meu lugar mas nunca vai ser eu\nPorque seu coração é meu\n\n(Ele tá no meu lugar) 3x\n\n_______________________________________\nAcompanhe nas redes sociais\nhttps://www.instagram.com/raisaiarodada/\nhttps://www.tiktok.com/@raisaiarodada\n_______________________________________\n\n#RaiSaiaRodada #WesleySafadão #SaiaRodada25Anos #NuncaVaiSerEu"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT2M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "36983",
+        "likeCount": "864",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G4KqFYNxiMIfF0D2dSY0w74XOyI",
+      "id": "g3Vphz_wwbE",
+      "snippet": {
+        "publishedAt": "2026-09-27T06:30:06Z",
+        "channelId": "UCKjWXe04hB_FXyFntT6FZJQ",
+        "title": "OverPeak | Launch Trailer",
+        "description": "#overpeak #rusergames #yperstudios\n\nDownload:\nAndroid: https://play.google.com/store/apps/details?id=com.rusergames.overpeak\niOS: Coming Soon [In-Review]\n\nOST: \nhttps://soundcloud.com/rusergames/sets/overpeak\n\nDescription: \nOVERPEAK - RISE. DESTROY. CHOOSE.\n\nOverPeak is a chaotic open-world action game set in Prism City. Play as Jason Fieldway, also known as Subject OP. A Starbridge experiment who died during a mysterious procedure.\n\nResurrected from his grave with extraordinary powers, Jason begins a violent journey to avenge the woman he lost and destroy the corporation responsible for his suffering.\n\nUNLEASH TOTAL DESTRUCTION\nTurn Prism City into your battleground with a dynamic destruction system. Collapse buildings, blast holes through structures, and destroy props throughout the environment.\n\nMASTER POWERFUL ABILITIES\nUse thermal and freeze lasers, launch explosive fire blasts, unleash powerful wind attacks, fly across the city, and travel into space whenever you choose.\n\nBUILD YOUR REPUTATION\nSave civilians, cause chaos, or kill anyone standing in your way. Your actions affect your reputation and change how the people of Prism City respond to you.\n\nhttps://www.rusergames.com for more info!\nSupport us: https://www.patreon.com/rusergames\n\nWebsite: https://www.rusergames.com\nSupport us: https://www.patreon.com/rusergames\nGroups & Community ( https://www.rusergames.com/join-us ):\nDiscord: https://discord.com/invite/m8UtbmUVDW\nTelegram: https://t.me/rusergames_community\nInstagram: https://www.instagram.com/rusergames\n\nAny questions or suggestions related to this game? \nMail: contact@rusergames.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g3Vphz_wwbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g3Vphz_wwbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g3Vphz_wwbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g3Vphz_wwbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g3Vphz_wwbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "R-USER Games",
+        "tags": [
+          "OverPeak",
+          "OverPeak game",
+          "OverPeak trailer",
+          "OverPeak story trailer",
+          "OverPeak release date",
+          "OverPeak gameplay",
+          "OverPeak mobile game",
+          "OverPeak official trailer",
+          "R-USER Games",
+          "indie game",
+          "indie games",
+          "mobile game",
+          "mobile games",
+          "open world game",
+          "open world action",
+          "action game",
+          "story driven game",
+          "game trailer",
+          "official game trailer",
+          "release date",
+          "Android game",
+          "iOS game",
+          "Prism City",
+          "Project OP",
+          "upcoming game",
+          "upcoming mobile game",
+          "new indie game",
+          "yperstudios",
+          "rusergames",
+          "overpeak"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "OverPeak | Launch Trailer",
+          "description": "#overpeak #rusergames #yperstudios\n\nDownload:\nAndroid: https://play.google.com/store/apps/details?id=com.rusergames.overpeak\niOS: Coming Soon [In-Review]\n\nOST: \nhttps://soundcloud.com/rusergames/sets/overpeak\n\nDescription: \nOVERPEAK - RISE. DESTROY. CHOOSE.\n\nOverPeak is a chaotic open-world action game set in Prism City. Play as Jason Fieldway, also known as Subject OP. A Starbridge experiment who died during a mysterious procedure.\n\nResurrected from his grave with extraordinary powers, Jason begins a violent journey to avenge the woman he lost and destroy the corporation responsible for his suffering.\n\nUNLEASH TOTAL DESTRUCTION\nTurn Prism City into your battleground with a dynamic destruction system. Collapse buildings, blast holes through structures, and destroy props throughout the environment.\n\nMASTER POWERFUL ABILITIES\nUse thermal and freeze lasers, launch explosive fire blasts, unleash powerful wind attacks, fly across the city, and travel into space whenever you choose.\n\nBUILD YOUR REPUTATION\nSave civilians, cause chaos, or kill anyone standing in your way. Your actions affect your reputation and change how the people of Prism City respond to you.\n\nhttps://www.rusergames.com for more info!\nSupport us: https://www.patreon.com/rusergames\n\nWebsite: https://www.rusergames.com\nSupport us: https://www.patreon.com/rusergames\nGroups & Community ( https://www.rusergames.com/join-us ):\nDiscord: https://discord.com/invite/m8UtbmUVDW\nTelegram: https://t.me/rusergames_community\nInstagram: https://www.instagram.com/rusergames\n\nAny questions or suggestions related to this game? \nMail: contact@rusergames.com"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "40532",
+        "likeCount": "2982",
+        "favoriteCount": "0",
+        "commentCount": "1812"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UcxSLhYJgwDA2XOJzXE3B4nbz_E",
+      "id": "hoilPklXcuc",
+      "snippet": {
+        "publishedAt": "2026-09-27T07:21:47Z",
+        "channelId": "UCzj4ChXJmgZ0e9sIW6Fh7pA",
+        "title": "Leonardo e Eduardo Costa - Só Modão Cabaré - Sertanejo Raiz Para Relembrar",
+        "description": "Leonardo e Eduardo Costa - Só Modão Cabaré - Sertanejo Raiz Para Relembrar\nLeonardo e Eduardo Costa - Só Modão Cabaré - Sertanejo Raiz Para Relembrar\nLeonardo e Eduardo Costa - Só Modão Cabaré - Sertanejo Raiz Para Relembrar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hoilPklXcuc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hoilPklXcuc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hoilPklXcuc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hoilPklXcuc/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hoilPklXcuc/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sertão Clássico",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Leonardo e Eduardo Costa - Só Modão Cabaré - Sertanejo Raiz Para Relembrar",
+          "description": "Leonardo e Eduardo Costa - Só Modão Cabaré - Sertanejo Raiz Para Relembrar\nLeonardo e Eduardo Costa - Só Modão Cabaré - Sertanejo Raiz Para Relembrar\nLeonardo e Eduardo Costa - Só Modão Cabaré - Sertanejo Raiz Para Relembrar"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT1H44S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "VN"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8641",
+        "likeCount": "208",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Tg1EfWUAxTc22pmKj5wEooh-v5k",
+      "id": "AdfcE4KBhqo",
+      "snippet": {
+        "publishedAt": "2026-09-26T15:00:21Z",
+        "channelId": "UCCCIzjqbX7psrn0HYG50phg",
+        "title": "Gustavo Mioto - tem sentimento (Pensamentos Intrusivos #09)",
+        "description": "ACOMPANHE GUSTAVO MIOTO NAS REDES SOCIAIS: \nINSTAGRAM - gustavomioto  \nFACEBOOK - gumioto  \nTWITTER - gustavopmioto  \n\nTEM SENTIMENTO\nHeitor Moreira, Theo Andrade, Gabriel Azevedo, Guilherme Dias, Daniel Ferrera\n \nSão trinta dias no mês\nDesses 30, a gente tentou se encontrar em 26\nDos 26, a gente dormiu juntos em 16\nNos outros 10, passamos pouco mais de 4 horas em chamada de vídeo\n \nPelo menos 3 vezes nós citamos 2 possíveis nomes de filhos\n \nSe tem alguma dúvida pendente\nOs números respondem pela gente\n \nO que a gente faz tem sentimento\nFicar ficando é muito desperdício\nOdeio te chamar só pelo nome\nEra pra gente já ter apelido\n \nO que a gente faz tem sentimento\nNão pode ter só beijo nessa boca\nCerteza tem te amo aí dentro\nA gente não é só rancação de roupa\n \nPorque o que a gente faz tem sentimento\n\n-----\n\nProdução Musical: Gabriel Pascoal\nMixagem e Masterização: Rafael Vargas\nDireção de Vídeo: Capim Films\nDireção Executiva: Booking Music\nProdutora Fonográfica: Fora de Moda Produções Artísticas \nGravadora: Universal Music\nMarketing / Digital: Conteúddo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AdfcE4KBhqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AdfcE4KBhqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AdfcE4KBhqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AdfcE4KBhqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AdfcE4KBhqo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/AdfcE4KBhqo/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Gustavo Mioto",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Gustavo Mioto - tem sentimento (Pensamentos Intrusivos #09)",
+          "description": "ACOMPANHE GUSTAVO MIOTO NAS REDES SOCIAIS: \nINSTAGRAM - gustavomioto  \nFACEBOOK - gumioto  \nTWITTER - gustavopmioto  \n\nTEM SENTIMENTO\nHeitor Moreira, Theo Andrade, Gabriel Azevedo, Guilherme Dias, Daniel Ferrera\n \nSão trinta dias no mês\nDesses 30, a gente tentou se encontrar em 26\nDos 26, a gente dormiu juntos em 16\nNos outros 10, passamos pouco mais de 4 horas em chamada de vídeo\n \nPelo menos 3 vezes nós citamos 2 possíveis nomes de filhos\n \nSe tem alguma dúvida pendente\nOs números respondem pela gente\n \nO que a gente faz tem sentimento\nFicar ficando é muito desperdício\nOdeio te chamar só pelo nome\nEra pra gente já ter apelido\n \nO que a gente faz tem sentimento\nNão pode ter só beijo nessa boca\nCerteza tem te amo aí dentro\nA gente não é só rancação de roupa\n \nPorque o que a gente faz tem sentimento\n\n-----\n\nProdução Musical: Gabriel Pascoal\nMixagem e Masterização: Rafael Vargas\nDireção de Vídeo: Capim Films\nDireção Executiva: Booking Music\nProdutora Fonográfica: Fora de Moda Produções Artísticas \nGravadora: Universal Music\nMarketing / Digital: Conteúddo"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT2M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "177402",
+        "likeCount": "3031",
+        "favoriteCount": "0",
+        "commentCount": "262"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v01ibjLutXeWXAKDa_B0qhcL5JY",
+      "id": "4Snd5BjeVtg",
+      "snippet": {
+        "publishedAt": "2026-09-26T19:38:16Z",
+        "channelId": "UCOaQsQIByJYHyETtw48l_Vw",
+        "title": "COMPLETO - FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 - FASE RUMO AO MUNDIAL | RODADA 17",
+        "description": "A Rodada 17 do FREE FIRE WORLD SERIES BRASIL Split 2 está ao vivo e a corrida Rumo ao Mundial começou! As 12 equipes finalistas do FFWS Brasil Split 2 batalham por 2 vagas no Mundial de Free Fire, o FFWS Global Finals, em 3 semanas insanas da Fase 2. É hora de acompanhar mais uma sequência de quedas, torcer pelo seu time e ver quem garante as vagas no mundial.  \n\nEquipes na disputa: \nTEAM SOLID • LOUD SNICKERS • CPT VOX • ALPHA7 • FLUXO W7M • SX TET • INFLUENCE RAGE • AFROGAMES • LOS • RISE • INTZ • RUSH\n\nSiga as redes sociais de Esports Free Fire e fique por dentro de tudo!\nTikTok -   / ffesportsbr  \nTwitter -   / ffesportsbr  \nInstagram -   / ffesportsbr  \nFacebook -   / ffesportsbr  \n\n#FFWS #FFWSBR #FREEFIRE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Snd5BjeVtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Snd5BjeVtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Snd5BjeVtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Snd5BjeVtg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Snd5BjeVtg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Free Fire Esports Brasil #FREEFIRE",
+        "tags": [
+          "Free Fire",
+          "LBFF",
+          "Frifas",
+          "Clipadinhas",
+          "garena",
+          "free",
+          "fire",
+          "free fire",
+          "diamante royale",
+          "pro league",
+          "modo cs",
+          "contra squad",
+          "jogo mobile",
+          "mobile",
+          "nova skin",
+          "ao vivo",
+          "garena free fire",
+          "free fire brasil",
+          "garena brasil",
+          "nova atualização",
+          "codiguin",
+          "liga brasileira",
+          "campeonato garena",
+          "lbff ao vivo",
+          "free fire ao vivo",
+          "lb",
+          "competitivo",
+          "competitivo free fire",
+          "lbff live",
+          "free fire live",
+          "ewc",
+          "copa do mundo",
+          "copa do mundo de esports"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "COMPLETO - FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 - FASE RUMO AO MUNDIAL | RODADA 17",
+          "description": "A Rodada 17 do FREE FIRE WORLD SERIES BRASIL Split 2 está ao vivo e a corrida Rumo ao Mundial começou! As 12 equipes finalistas do FFWS Brasil Split 2 batalham por 2 vagas no Mundial de Free Fire, o FFWS Global Finals, em 3 semanas insanas da Fase 2. É hora de acompanhar mais uma sequência de quedas, torcer pelo seu time e ver quem garante as vagas no mundial.  \n\nEquipes na disputa: \nTEAM SOLID • LOUD SNICKERS • CPT VOX • ALPHA7 • FLUXO W7M • SX TET • INFLUENCE RAGE • AFROGAMES • LOS • RISE • INTZ • RUSH\n\nSiga as redes sociais de Esports Free Fire e fique por dentro de tudo!\nTikTok -   / ffesportsbr  \nTwitter -   / ffesportsbr  \nInstagram -   / ffesportsbr  \nFacebook -   / ffesportsbr  \n\n#FFWS #FFWSBR #FREEFIRE"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT3H57M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "820252",
+        "likeCount": "22590",
+        "favoriteCount": "0",
+        "commentCount": "24"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oXvLyCS-ERMEjRazbsWAp0FPKT8",
+      "id": "NXJQ0XvLCqE",
+      "snippet": {
+        "publishedAt": "2026-09-26T22:00:28Z",
+        "channelId": "UCo0hq1SW3fCxK61h-fqHmig",
+        "title": "Slow GM - Cataclismo (Hollow Knight) Official Music Video",
+        "description": "\"Quão bagunçado é alguém forçado a não sentir?\" 💧☕\n\n\"Cataclismo\" está disponível nas plataformas digitais!\n\nVoz, Letra, Instrumental, Mixagem, Masterização por Slow GM\nVozes Graves por @_Jeffs   \nVisual por M3guro, Samuca, Soul, Lyz, LRO, Xeu, Nugget e Ikari\nDireção Visual por Nugget\nThumbnail por Dvd\nLegendas por LunaTW\n\n\nContato Profissional:\nE-mail: slowgm.contato@gmail.com\n\nSlow GM © 2026\nTodos os direitos reservados\n\n[Capítulos]\n0:00 M3guro\n0:07 Samuca\n0:14 Soul\n0:30 Lyz\n0:46 LRO\n1:02 Xeu\n1:16 Nugget\n1:47 Ikari\n2:03 Soul\n2:20 VicBySoup\n2:50 Xeu\n3:05 Nugget\n3:35 Ikari",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NXJQ0XvLCqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NXJQ0XvLCqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NXJQ0XvLCqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NXJQ0XvLCqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NXJQ0XvLCqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Slow GM",
+        "tags": [
+          "SlowGM",
+          "Hollow Knight",
+          "Indie",
+          "Game",
+          "Geek",
+          "Music",
+          "Hollow Knight Silksong",
+          "Team Cherry"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Slow GM - Cataclismo (Hollow Knight) Official Music Video",
+          "description": "\"Quão bagunçado é alguém forçado a não sentir?\" 💧☕\n\n\"Cataclismo\" está disponível nas plataformas digitais!\n\nVoz, Letra, Instrumental, Mixagem, Masterização por Slow GM\nVozes Graves por @_Jeffs   \nVisual por M3guro, Samuca, Soul, Lyz, LRO, Xeu, Nugget e Ikari\nDireção Visual por Nugget\nThumbnail por Dvd\nLegendas por LunaTW\n\n\nContato Profissional:\nE-mail: slowgm.contato@gmail.com\n\nSlow GM © 2026\nTodos os direitos reservados\n\n[Capítulos]\n0:00 M3guro\n0:07 Samuca\n0:14 Soul\n0:30 Lyz\n0:46 LRO\n1:02 Xeu\n1:16 Nugget\n1:47 Ikari\n2:03 Soul\n2:20 VicBySoup\n2:50 Xeu\n3:05 Nugget\n3:35 Ikari"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT3M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "59213",
+        "likeCount": "7123",
+        "favoriteCount": "0",
+        "commentCount": "665"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3gcu7nlxBFMcFChyTtuUTnbKE-4",
+      "id": "P5-y81v7ph0",
+      "snippet": {
+        "publishedAt": "2026-09-26T13:00:04Z",
+        "channelId": "UCrcBZDofBltcgGxphNia2tw",
+        "title": "Sobrevivi 100 dias como PEDRA",
+        "description": "🔥Compre Meu Livro: https://www.editorapixel.com.br/problems-em-a-cor-escondida\n\nServidor de discord:\nhttps://discord.gg/2jtYumJKuZ\n\nMinha Loja:\nhttps://www.curtaloja.com/marca/problems.html\n\nContato COMERCIAL:\ncomercial@agenciacurta.com\n\nSegue a turma no instagram:\n\nProblems💙 https://www.instagram.com/problems_sr/\nMel 💛https://www.instagram.com/kaikemel/\nKadu 💖 https://www.instagram.com/kadukon/\nStick 💚https://www.instagram.com/guualfaro/\nZoom 🧡 https://www.instagram.com/josedu4rd/\n\nATENÇÃO: O conteúdo do vídeo é 100% family friendly, ou seja qualquer um pode assistir com toda a familia quando quiser!!\n\n#problems #minecraft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P5-y81v7ph0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P5-y81v7ph0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P5-y81v7ph0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P5-y81v7ph0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P5-y81v7ph0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ProbIems",
+        "tags": [
+          "maniqueft",
+          "lego",
+          "problems",
+          "probrems",
+          "probres",
+          "pobrems",
+          "problemas",
+          "problema",
+          "pobrema",
+          "mainequeft",
+          "minecraft",
+          "video do problema",
+          "video do problems",
+          "video do pobrems",
+          "minecraft survival",
+          "minecraft mitos",
+          "minecraft fatos",
+          "problems roblox",
+          "roblox",
+          "pobrems roblox",
+          "pobris roblox",
+          "pobrema roblox",
+          "problema roblox"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Sobrevivi 100 dias como PEDRA",
+          "description": "🔥Compre Meu Livro: https://www.editorapixel.com.br/problems-em-a-cor-escondida\n\nServidor de discord:\nhttps://discord.gg/2jtYumJKuZ\n\nMinha Loja:\nhttps://www.curtaloja.com/marca/problems.html\n\nContato COMERCIAL:\ncomercial@agenciacurta.com\n\nSegue a turma no instagram:\n\nProblems💙 https://www.instagram.com/problems_sr/\nMel 💛https://www.instagram.com/kaikemel/\nKadu 💖 https://www.instagram.com/kadukon/\nStick 💚https://www.instagram.com/guualfaro/\nZoom 🧡 https://www.instagram.com/josedu4rd/\n\nATENÇÃO: O conteúdo do vídeo é 100% family friendly, ou seja qualquer um pode assistir com toda a familia quando quiser!!\n\n#problems #minecraft"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT19M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "423098",
+        "likeCount": "7021",
+        "favoriteCount": "0",
+        "commentCount": "804"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HxEsUGjJoKxXtQOmQlJynL6AgXI",
+      "id": "JZAABPGwd8c",
+      "snippet": {
+        "publishedAt": "2026-09-25T15:00:35Z",
+        "channelId": "UCPIKprANiVFmB0JSa3Fwx3g",
+        "title": "Allê no Beat - PERNILONGO (Clipe Oficial)",
+        "description": "Já está disponível o clipe oficial de PERNILONGO, faixa que faz parte do projeto “FORRÓ CACHORRO 4.0”.\n\nDê o play, curta, compartilhe e deixe nos comentários o que achou! 👇\n\n🎵 OUÇA: potenciamusic.lnk.to/ForroCachorro4\n\n📲 SIGA ALLÊ NO BEAT:\nInstagram: https://www.instagram.com/allenobeat?stkn=MWdydW5tMzlyM2l0Zw==\n\n⸻\n\n🎼 FICHA TÉCNICA\n\nArtista: Allê no Beat\nMúsica: Pernilongo\nCompositores: DJ Gaspar / Ariel\nProdução musical: Allê no Beat e Gaspar\nDireção artística: VTX\nDireção de vídeo: VTX\nProdução executiva: VTX\nLocal da gravação: Aquiraz\nData de gravação: 16.09",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JZAABPGwd8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JZAABPGwd8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JZAABPGwd8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JZAABPGwd8c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JZAABPGwd8c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/JZAABPGwd8c/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Allê No Beat",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Allê no Beat - PERNILONGO (Clipe Oficial)",
+          "description": "Já está disponível o clipe oficial de PERNILONGO, faixa que faz parte do projeto “FORRÓ CACHORRO 4.0”.\n\nDê o play, curta, compartilhe e deixe nos comentários o que achou! 👇\n\n🎵 OUÇA: potenciamusic.lnk.to/ForroCachorro4\n\n📲 SIGA ALLÊ NO BEAT:\nInstagram: https://www.instagram.com/allenobeat?stkn=MWdydW5tMzlyM2l0Zw==\n\n⸻\n\n🎼 FICHA TÉCNICA\n\nArtista: Allê no Beat\nMúsica: Pernilongo\nCompositores: DJ Gaspar / Ariel\nProdução musical: Allê no Beat e Gaspar\nDireção artística: VTX\nDireção de vídeo: VTX\nProdução executiva: VTX\nLocal da gravação: Aquiraz\nData de gravação: 16.09"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT2M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "93867",
+        "likeCount": "2008",
+        "favoriteCount": "0",
+        "commentCount": "44"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NDmxMFZyf7EXhqM3VGSir0Z4y7g",
+      "id": "z8Twnk00EX8",
+      "snippet": {
+        "publishedAt": "2026-09-26T23:41:40Z",
+        "channelId": "UCb01pKWDvSWDm0ymT-QQ30w",
+        "title": "Eduardo Costa – Só as Antigas ❤️ As Melhores Músicas | Sertanejo Raiz & Modão",
+        "description": "Eduardo Costa – Só as Antigas ❤️ As Melhores Músicas | Sertanejo Raiz & Modão\n\nTem música que a gente não apenas escuta… a gente sente e revive. ❤️ Nesta seleção, o clima é de saudade, estrada e boas lembranças, com músicas para quem realmente gosta daquele sertanejo raiz e modão das antigas.\n\n🤠 Prepare o coração para uma sequência especial inspirada nos grandes sucessos de Eduardo Costa, perfeita para acompanhar uma viagem, um churrasco com os amigos ou aquela noite tranquila em que bate vontade de ouvir um bom sertanejo.\n\n🎶 Só as antigas, só as melhores!\n🚚 Sertanejo para pegar a estrada\n❤️ Modão para recordar grandes momentos\n🎸 Músicas românticas para cantar junto\n🌅 Aquele sertanejo que nunca sai de moda\n\nAumente o volume e aproveite essa viagem pelo melhor clima do sertanejo brasileiro. Se você também é apaixonado por modão, deixe seu like 👍 e conte nos comentários: qual música antiga não pode faltar na sua playlist?\n\n#EduardoCosta #SoAsAntigas #SertanejoRaiz #ModaoRaiz #Modao #SertanejoDasAntigas #SertanejoRomantico #MusicasSertanejas #SertanejoBrasileiro\n\neduardo costa, eduardo costa músicas, eduardo costa as melhores, eduardo costa só as antigas, eduardo costa melhores músicas, eduardo costa sucessos, eduardo costa sertanejo, eduardo costa modão, sertanejo raiz, sertanejo raiz das antigas, modão, modão raiz, modão sertanejo, modão das antigas, só as antigas, sertanejo das antigas, músicas sertanejas antigas, melhores músicas sertanejas, sertanejo antigo, sertanejo romântico, grandes sucessos sertanejos, músicas de estrada, modão na estrada, sertanejo para viajar, músicas para churrasco, clássicos sertanejos, as melhores do sertanejo, sertanejo só sucessos, músicas do eduardo costa, seleção sertaneja, playlist sertanejo raiz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z8Twnk00EX8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z8Twnk00EX8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z8Twnk00EX8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z8Twnk00EX8/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z8Twnk00EX8/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/z8Twnk00EX8/fhddefault_live.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Sertanejo Ritmo",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Eduardo Costa – Só as Antigas ❤️ As Melhores Músicas | Sertanejo Raiz & Modão",
+          "description": "Eduardo Costa – Só as Antigas ❤️ As Melhores Músicas | Sertanejo Raiz & Modão\n\nTem música que a gente não apenas escuta… a gente sente e revive. ❤️ Nesta seleção, o clima é de saudade, estrada e boas lembranças, com músicas para quem realmente gosta daquele sertanejo raiz e modão das antigas.\n\n🤠 Prepare o coração para uma sequência especial inspirada nos grandes sucessos de Eduardo Costa, perfeita para acompanhar uma viagem, um churrasco com os amigos ou aquela noite tranquila em que bate vontade de ouvir um bom sertanejo.\n\n🎶 Só as antigas, só as melhores!\n🚚 Sertanejo para pegar a estrada\n❤️ Modão para recordar grandes momentos\n🎸 Músicas românticas para cantar junto\n🌅 Aquele sertanejo que nunca sai de moda\n\nAumente o volume e aproveite essa viagem pelo melhor clima do sertanejo brasileiro. Se você também é apaixonado por modão, deixe seu like 👍 e conte nos comentários: qual música antiga não pode faltar na sua playlist?\n\n#EduardoCosta #SoAsAntigas #SertanejoRaiz #ModaoRaiz #Modao #SertanejoDasAntigas #SertanejoRomantico #MusicasSertanejas #SertanejoBrasileiro\n\neduardo costa, eduardo costa músicas, eduardo costa as melhores, eduardo costa só as antigas, eduardo costa melhores músicas, eduardo costa sucessos, eduardo costa sertanejo, eduardo costa modão, sertanejo raiz, sertanejo raiz das antigas, modão, modão raiz, modão sertanejo, modão das antigas, só as antigas, sertanejo das antigas, músicas sertanejas antigas, melhores músicas sertanejas, sertanejo antigo, sertanejo romântico, grandes sucessos sertanejos, músicas de estrada, modão na estrada, sertanejo para viajar, músicas para churrasco, clássicos sertanejos, as melhores do sertanejo, sertanejo só sucessos, músicas do eduardo costa, seleção sertaneja, playlist sertanejo raiz"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT1H11M20S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "VN"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "26729",
+        "likeCount": "437",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "N6ouA99tUDKmDsGy4m6voiEcPI0",
+      "id": "_yCcOwMYIUk",
+      "snippet": {
+        "publishedAt": "2026-09-25T16:33:21Z",
+        "channelId": "UCk5b3blLA3oT259UFygdBAA",
+        "title": "Biguinho Sensação - Flores em Vida / Caprichos / Mistérios da Mulher",
+        "description": "Biguinho Sensação - Especial Outubro 2K26",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_yCcOwMYIUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_yCcOwMYIUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_yCcOwMYIUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_yCcOwMYIUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_yCcOwMYIUk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Biguinho Sensação oficial",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Biguinho Sensação - Flores em Vida / Caprichos / Mistérios da Mulher",
+          "description": "Biguinho Sensação - Especial Outubro 2K26"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT6M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "51440",
+        "likeCount": "1386",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EnaKoDUx-uijVgQKhF9sH2Cl8KA",
+      "id": "w2LM2kOmc-Q",
+      "snippet": {
+        "publishedAt": "2026-09-26T19:45:02Z",
+        "channelId": "UCR-Y4lWmrCYbr1XavmNMlvQ",
+        "title": "FUI O PRIMEIRO DO MUNDO A JOGAR VOX SEAS… E GANHEI ISSO! 😱",
+        "description": "Seja membro deste canal e ganhe benefícios:\nhttps://www.youtube.com/channel/UCR-Y4lWmrCYbr1XavmNMlvQ/join\n\n►Discord LCW ➜https://discord.gg/canalclashwar\n►Instagram➜https://instagram.com/luanclashwar\nContato Profissional: contato@clashwar.org (APENAS PARA EMPRESAS)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w2LM2kOmc-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w2LM2kOmc-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w2LM2kOmc-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w2LM2kOmc-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w2LM2kOmc-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Canal Clash War",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "FUI O PRIMEIRO DO MUNDO A JOGAR VOX SEAS… E GANHEI ISSO! 😱",
+          "description": "Seja membro deste canal e ganhe benefícios:\nhttps://www.youtube.com/channel/UCR-Y4lWmrCYbr1XavmNMlvQ/join\n\n►Discord LCW ➜https://discord.gg/canalclashwar\n►Instagram➜https://instagram.com/luanclashwar\nContato Profissional: contato@clashwar.org (APENAS PARA EMPRESAS)"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT25M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "265890",
+        "likeCount": "8280",
+        "favoriteCount": "0",
+        "commentCount": "1818"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f02ogndtUPru6ojc5fF-16m0TF4",
+      "id": "wzS8TBtJujg",
+      "snippet": {
+        "publishedAt": "2026-09-24T10:04:02Z",
+        "channelId": "UCibsTFu6Vb7bhzRmU1BOzng",
+        "title": "Salmo 91",
+        "description": "Provided to YouTube by Thamires Garcia Latam\n\nSalmo 91 · Thamires Garcia\n\nPaixão & Devoção Vol. 6\n\n℗ 2026 Thamires Garcia\n\nComposer: Thamires Garcia\nProducer: Junior Papalia\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wzS8TBtJujg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wzS8TBtJujg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wzS8TBtJujg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wzS8TBtJujg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wzS8TBtJujg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thamires Garcia - Topic",
+        "tags": [
+          "Thamires Garcia",
+          "Paixão & Devoção Vol. 6",
+          "Salmo 91"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Salmo 91",
+          "description": "Provided to YouTube by Thamires Garcia Latam\n\nSalmo 91 · Thamires Garcia\n\nPaixão & Devoção Vol. 6\n\n℗ 2026 Thamires Garcia\n\nComposer: Thamires Garcia\nProducer: Junior Papalia\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT4M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AE",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "BG",
+            "BH",
+            "BM",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GE",
+            "GF",
+            "GH",
+            "GP",
+            "GR",
+            "GT",
+            "GU",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KH",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LI",
+            "LK",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MK",
+            "MP",
+            "MQ",
+            "MT",
+            "MX",
+            "MY",
+            "NC",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PR",
+            "PT",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SN",
+            "SV",
+            "TC",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "VE",
+            "VI",
+            "VN",
+            "YE",
+            "YT",
+            "ZA",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7753",
+        "likeCount": "214",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rhoSSgkiIKBnq7xFAN7dKW5REKQ",
+      "id": "PyLGTmWz37U",
+      "snippet": {
+        "publishedAt": "2026-09-26T16:00:04Z",
+        "channelId": "UCIPPMRA040LQr5QPyJEbmXA",
+        "title": "I Found My 13 Year Old Minecraft World",
+        "description": "I finally made the Minecraft world I always wanted to make, 13 years later\n\nCheck out our new MrBeast Lab MEGA Mutators at Walmart! 👉 https://www.walmart.com/ip/MEGA-PNTHR/19203372461?classType=REGULAR\n\nThe laptop I originally used to record the first episodes was destroyed, so we used the original seed and painstakingly recreated every block to make it the exact same that I had 13 years ago. If you want to play on this world, download it here: https://drive.google.com/file/d/1ODgKBHIXMKU9v2IZiedkppHA6m95ze6G/view?usp=sharing\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nOriginal Score by Jules Werli\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PyLGTmWz37U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PyLGTmWz37U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PyLGTmWz37U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PyLGTmWz37U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PyLGTmWz37U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/PyLGTmWz37U/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "MrBeast Gaming",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Found My 13 Year Old Minecraft World",
+          "description": "I finally made the Minecraft world I always wanted to make, 13 years later\n\nCheck out our new MrBeast Lab MEGA Mutators at Walmart! 👉 https://www.walmart.com/ip/MEGA-PNTHR/19203372461?classType=REGULAR\n\nThe laptop I originally used to record the first episodes was destroyed, so we used the original seed and painstakingly recreated every block to make it the exact same that I had 13 years ago. If you want to play on this world, download it here: https://drive.google.com/file/d/1ODgKBHIXMKU9v2IZiedkppHA6m95ze6G/view?usp=sharing\n\nNew Merch - https://mrbeast.store\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\nOriginal Score by Jules Werli\nMusic Provided by https://www.extrememusic.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15562759",
+        "likeCount": "334304",
+        "favoriteCount": "0",
+        "commentCount": "13241"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aQ9y1SlXJ1GsKuekoCi2duAK1ac",
+      "id": "O6dor6VjHZw",
+      "snippet": {
+        "publishedAt": "2026-09-25T15:00:01Z",
+        "channelId": "UCrYisnYvIrY_7jkt-8VuXcg",
+        "title": "CAFAJESTE - Japãozin (Nas Alturas)",
+        "description": "Ouça Japãozin Nas Alturas na sua plataforma de música preferida:\nhttps://smd.suamusica.cd/NasAlturas-Pt1\n\nDeixe seu comentário brabo por aqui!\n\nSiga o Brabo nas Redes Sociais:\nInstagram: http://instagram.com/eojapaozin\nTiktok: https://www.tiktok.com/@eojapaozin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6dor6VjHZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6dor6VjHZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6dor6VjHZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O6dor6VjHZw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O6dor6VjHZw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/O6dor6VjHZw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Japãozin",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "CAFAJESTE - Japãozin (Nas Alturas)",
+          "description": "Ouça Japãozin Nas Alturas na sua plataforma de música preferida:\nhttps://smd.suamusica.cd/NasAlturas-Pt1\n\nDeixe seu comentário brabo por aqui!\n\nSiga o Brabo nas Redes Sociais:\nInstagram: http://instagram.com/eojapaozin\nTiktok: https://www.tiktok.com/@eojapaozin"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "18928",
+        "likeCount": "449",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XILDVMoaRF3UoSHS1boj8PT4R_Q",
+      "id": "TJakMBvoe3Q",
+      "snippet": {
+        "publishedAt": "2026-09-27T03:50:34Z",
+        "channelId": "UCtpnpcN0iBupTk3MtWPzZrQ",
+        "title": "FFWS E DEPOIS GUERRA DE GUILDA, MEU NOVO TIME NESSA TEMPORADA - VEM VER!!!",
+        "description": "#roblox #relax Admin Abuse! Free Fire Live Gameplay with chill background music — perfect to study, work or beats to relax.\n    \n\n📩contato profissional/For Inquires Contact or Music promo : contatoapela@hotmail.com\n\n#ruokffsettings  #freefire  #apelapato  \n\n\n\n discord ⚠  https://konect.gg/apelapato\n📌 Socials\n📸 instagram : https://www.instagram.com/apelapato/?...\n📸 Tiktok: apelapato_henrique",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TJakMBvoe3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TJakMBvoe3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TJakMBvoe3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TJakMBvoe3Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TJakMBvoe3Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apelapato999",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "FFWS E DEPOIS GUERRA DE GUILDA, MEU NOVO TIME NESSA TEMPORADA - VEM VER!!!",
+          "description": "#roblox #relax Admin Abuse! Free Fire Live Gameplay with chill background music — perfect to study, work or beats to relax.\n    \n\n📩contato profissional/For Inquires Contact or Music promo : contatoapela@hotmail.com\n\n#ruokffsettings  #freefire  #apelapato  \n\n\n\n discord ⚠  https://konect.gg/apelapato\n📌 Socials\n📸 instagram : https://www.instagram.com/apelapato/?...\n📸 Tiktok: apelapato_henrique"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT10H52M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "392494",
+        "likeCount": "14912",
+        "favoriteCount": "0",
+        "commentCount": "109"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "o3ZXuhn5pVHqpisa7FIJrXFQGGY",
+      "id": "IE-vpstezVE",
+      "snippet": {
+        "publishedAt": "2026-09-26T13:07:30Z",
+        "channelId": "UCZX1Qso2kMYdhgjYeLsz0IQ",
+        "title": "MILSINHO TOQUE DEZ 2026 - CD NOVO SETEMBRO 2026 - MÚSICAS ATUALIZADAS - MÚIDO NA MÁXIMA PRA PAREDÃO",
+        "description": "#milsinhotoquedez\u200b #asmelhores #múidonamaxima\nMILSINHO TOQUE DEZ 2026 - CD NOVO SETEMBRO 2026 - MÚSICAS ATUALIZADAS - MÚIDO NA MÁXIMA PRA PAREDÃO\n#musicanova #repertórionovo #seresta \n\n\nmilsinho toque dez,toque dez,toque dez novo,toque dez 2026,toque dez 2025,toque dez ao vivo,toque dez as melhores,toque dez antigas,arrocha,foguetao da nasa,toque dez foguetao da nasa,seresta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IE-vpstezVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IE-vpstezVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IE-vpstezVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IE-vpstezVE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IE-vpstezVE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/IE-vpstezVE/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "VILÃO PRODUTORA",
+        "tags": [
+          "milsinho toque dez",
+          "toque dez",
+          "toque dez novo",
+          "toque dez 2026",
+          "toque dez 2025",
+          "toque dez ao vivo",
+          "toque dez as melhores",
+          "toque dez antigas",
+          "arrocha",
+          "foguetao da nasa",
+          "toque dez foguetao da nasa",
+          "seresta",
+          "seresta2026",
+          "seresta musicas novas",
+          "seresta milsinho",
+          "milsinho toque dez musicas novas 2026",
+          "repertorio novo"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "MILSINHO TOQUE DEZ 2026 - CD NOVO SETEMBRO 2026 - MÚSICAS ATUALIZADAS - MÚIDO NA MÁXIMA PRA PAREDÃO",
+          "description": "#milsinhotoquedez\u200b #asmelhores #múidonamaxima\nMILSINHO TOQUE DEZ 2026 - CD NOVO SETEMBRO 2026 - MÚSICAS ATUALIZADAS - MÚIDO NA MÁXIMA PRA PAREDÃO\n#musicanova #repertórionovo #seresta \n\n\nmilsinho toque dez,toque dez,toque dez novo,toque dez 2026,toque dez 2025,toque dez ao vivo,toque dez as melhores,toque dez antigas,arrocha,foguetao da nasa,toque dez foguetao da nasa,seresta"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT46M48S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13588",
+        "likeCount": "162",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ETMtOiXH5FflmtlH1i8-m8ldrdc",
+      "id": "qJHzYkD6tm4",
+      "snippet": {
+        "publishedAt": "2026-09-26T22:06:05Z",
+        "channelId": "UCoXIbjJeb1NznRssUYw3LBQ",
+        "title": "Minecraft De Terror, Mas Meu Pets Estão Armados Até Os Dentes..",
+        "description": "🤳🏻 MEU INSTAGRAM: https://www.instagram.com/fixz.png/\n💼 Contato Profissional: fixzstudios@gmail.com\nFixz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJHzYkD6tm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJHzYkD6tm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJHzYkD6tm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qJHzYkD6tm4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qJHzYkD6tm4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/qJHzYkD6tm4/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "FixzTwo",
+        "tags": [
+          "fixz",
+          "creative squad",
+          "terror",
+          "minecraft",
+          "mods de terror para minecraft"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt",
+        "localized": {
+          "title": "Minecraft De Terror, Mas Meu Pets Estão Armados Até Os Dentes..",
+          "description": "🤳🏻 MEU INSTAGRAM: https://www.instagram.com/fixz.png/\n💼 Contato Profissional: fixzstudios@gmail.com\nFixz"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT29M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "96105",
+        "likeCount": "3168",
+        "favoriteCount": "0",
+        "commentCount": "149"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UTNt2TpqVee21nzbGKW_IfPeNPQ",
+      "id": "KF4hM3ebDL0",
+      "snippet": {
+        "publishedAt": "2026-09-26T15:00:10Z",
+        "channelId": "UCo3Qfn9yCfDPYVqBawyg1lQ",
+        "title": "Felícia Rock - DEIXA NO OFF (Nobara & Itadori) ft. @AniRap",
+        "description": "⭐Escute minhas músicas nas Plataformas Digitais⭐\n\n🎵 Spotify: https://spoti.fi/38HsrL7\n🎵 Deezer: https://bit.ly/2uYJYQw \n\n⭐Me siga nas redes⭐\n\n📸 Instagram:   https://www.instagram.com/felicinharock\n\n / felicinharock  \n🎶  tic:   https://www.tiktok.com/@felicinharock\n\n / felicinharock  \n🐦 Twitter:   https://x.com/FeliciaRock\n\n / feliciarock  \n\n⭐ Contato para Shows, parcerias, publicidade ⭐\n\n📧 Email Profissional: feliciarockpro@gmail.com\n\n\n🎬 Ficha Técnica 🎬\n\n🎙️ Direção Musical:\nFelícia Rock\n\n🎙️ Letra, voz e melodias:\nFelícia Rock\n\n🎙️Voz:  @AniRap \n\n🎵 Produção Instrumental:\n\n* Arranjo e composição - Felícia Rock\n* Co-produção -  @Reddinthemic \n\n🎚️ Mix : Reddinthemic\nMaster:  @Peu028  \n\n✂️ Edição:  \nOrtz @ortz_ofc\nG.S Studios  @gs_studios_ofc  \n\n📷 Thumb: Shouto @shoutotdrk\n\n\nFelícia Rock - DEIXA NO OFF (Nobara & Itadori) ft. Anirap\n\n#musica #jujutsukaisen #musicapop #fanfic #ship #anirap #itadori #nobara \n\n🎶 Um pouco sobre a música:\n\n“Deixa no Off” é uma música de Pop R&B sobre duas pessoas que são mais do que amigas, mas preferem manter essa relação em segredo.\n\nA música nasceu como uma \"fanfic musical\" inspirada no ship ItaKugi - Nobara Kugisaki e Yuji Itadori, do anime Jujutsu Kaisen.\nEu adoro a dinamica deles e bom, meu headcanon é que eles tem esse romance secreto, especialmente no pós do anime e em Jujutsu Kaisen Modulo kkkk. \n\nDai eu transformei a fic desse casal não-oficial numa história cantada e chamei o Anirap pra participar do projeto comigo e ficou f#daaaa demais!!\n\nEssa é a primeira faixa do meu projeto de transformar ships em músicas, misturando o universo dos fandoms com a sonoridade pop que eu gosto de fazer, de um jeito que pode ser ouvida mesmo por quem não conhece a história que inspirou a música.\n\nSe você gosta de Pop, R&B, Dark Pop, músicas românticas, e/ou gosta de anime, Jujutsu Kaisen, Nobara e Itadori, essa música é pra você. 🖤\n\nAgora me diz, qual ship deveria ganhar uma fanfic musical depois dessa?\n\n\n♥ Obrigada, SE INSCREVA no canal e se torne um Rocker! ♥\n\n▬▬ LETRA NO COMENTÁRIO FIXADO ▬▬\n\nFelícia Rock - DEIXA NO OFF (Nobara & Itadori - Jujutsu kaisen) ft. Anira\n\nFelícia Rock - DEIXA NO OFF (Nobara & Itadori - Jujutsu kaisen) ft. Anirap",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KF4hM3ebDL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KF4hM3ebDL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KF4hM3ebDL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KF4hM3ebDL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KF4hM3ebDL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/KF4hM3ebDL0/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Felícia Rock",
+        "tags": [
+          "Felícia Rock",
+          "Anirap",
+          "Deixa no Off",
+          "Jujutsu Kaisen",
+          "Yuji Itadori",
+          "Nobara Kugisaki",
+          "Itadori e Nobara",
+          "musica",
+          "musica geek",
+          "itadori e nobara melhores momentos",
+          "itadori e nobara ship",
+          "yuji e nobara",
+          "yuji nobara edit",
+          "itakugi",
+          "jujutsu kaisen rap",
+          "jujutsu kaisen musica",
+          "jjk",
+          "fanfic",
+          "jujutsu kaisen 4 temporada",
+          "itadori e nobara estão namorando",
+          "itadori e nobara casal",
+          "fanfic jujutsu kaisen",
+          "satosugo",
+          "rap geek",
+          "amor complicado",
+          "musica brasileira",
+          "gojo e geto",
+          "ships de jujutsu kaisen"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Felícia Rock - DEIXA NO OFF (Nobara & Itadori) ft. @AniRap",
+          "description": "⭐Escute minhas músicas nas Plataformas Digitais⭐\n\n🎵 Spotify: https://spoti.fi/38HsrL7\n🎵 Deezer: https://bit.ly/2uYJYQw \n\n⭐Me siga nas redes⭐\n\n📸 Instagram:   https://www.instagram.com/felicinharock\n\n / felicinharock  \n🎶  tic:   https://www.tiktok.com/@felicinharock\n\n / felicinharock  \n🐦 Twitter:   https://x.com/FeliciaRock\n\n / feliciarock  \n\n⭐ Contato para Shows, parcerias, publicidade ⭐\n\n📧 Email Profissional: feliciarockpro@gmail.com\n\n\n🎬 Ficha Técnica 🎬\n\n🎙️ Direção Musical:\nFelícia Rock\n\n🎙️ Letra, voz e melodias:\nFelícia Rock\n\n🎙️Voz:  @AniRap \n\n🎵 Produção Instrumental:\n\n* Arranjo e composição - Felícia Rock\n* Co-produção -  @Reddinthemic \n\n🎚️ Mix : Reddinthemic\nMaster:  @Peu028  \n\n✂️ Edição:  \nOrtz @ortz_ofc\nG.S Studios  @gs_studios_ofc  \n\n📷 Thumb: Shouto @shoutotdrk\n\n\nFelícia Rock - DEIXA NO OFF (Nobara & Itadori) ft. Anirap\n\n#musica #jujutsukaisen #musicapop #fanfic #ship #anirap #itadori #nobara \n\n🎶 Um pouco sobre a música:\n\n“Deixa no Off” é uma música de Pop R&B sobre duas pessoas que são mais do que amigas, mas preferem manter essa relação em segredo.\n\nA música nasceu como uma \"fanfic musical\" inspirada no ship ItaKugi - Nobara Kugisaki e Yuji Itadori, do anime Jujutsu Kaisen.\nEu adoro a dinamica deles e bom, meu headcanon é que eles tem esse romance secreto, especialmente no pós do anime e em Jujutsu Kaisen Modulo kkkk. \n\nDai eu transformei a fic desse casal não-oficial numa história cantada e chamei o Anirap pra participar do projeto comigo e ficou f#daaaa demais!!\n\nEssa é a primeira faixa do meu projeto de transformar ships em músicas, misturando o universo dos fandoms com a sonoridade pop que eu gosto de fazer, de um jeito que pode ser ouvida mesmo por quem não conhece a história que inspirou a música.\n\nSe você gosta de Pop, R&B, Dark Pop, músicas românticas, e/ou gosta de anime, Jujutsu Kaisen, Nobara e Itadori, essa música é pra você. 🖤\n\nAgora me diz, qual ship deveria ganhar uma fanfic musical depois dessa?\n\n\n♥ Obrigada, SE INSCREVA no canal e se torne um Rocker! ♥\n\n▬▬ LETRA NO COMENTÁRIO FIXADO ▬▬\n\nFelícia Rock - DEIXA NO OFF (Nobara & Itadori - Jujutsu kaisen) ft. Anira\n\nFelícia Rock - DEIXA NO OFF (Nobara & Itadori - Jujutsu kaisen) ft. Anirap"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT3M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "132243",
+        "likeCount": "10976",
+        "favoriteCount": "0",
+        "commentCount": "1019"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iIZk5I77Gw183v8x9mEBBVWwbBk",
+      "id": "ja9ry_Fjlqw",
+      "snippet": {
+        "publishedAt": "2026-09-26T17:15:25Z",
+        "channelId": "UCLjzb0-xUi_gfnZGd9ZgRwQ",
+        "title": "SAINDO DO OVO! GIGANTE SHIMU AZUL!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ja9ry_Fjlqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ja9ry_Fjlqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ja9ry_Fjlqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ja9ry_Fjlqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ja9ry_Fjlqw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Richard GameVlogs",
+        "tags": [
+          "indominus rex",
+          "indominus rex azul",
+          "rex",
+          "tiranossauro rex",
+          "100 dias",
+          "100 dias ark",
+          "dinossauro",
+          "richard e rex",
+          "richard gamevlogs",
+          "d rex",
+          "d rex azul",
+          "distorus rex",
+          "distortus rex azul",
+          "shimu"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "SAINDO DO OVO! GIGANTE SHIMU AZUL!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT51M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "114361",
+        "likeCount": "1594",
+        "favoriteCount": "0",
+        "commentCount": "86"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PaEjnc4QH1Nr4gnx8gTMH8jWFMU",
+      "id": "5Kvnfecwb60",
+      "snippet": {
+        "publishedAt": "2026-09-25T22:00:06Z",
+        "channelId": "UCe6pKugTDyOPT1Md2DTybbQ",
+        "title": "7 Minutoz - SOU DEUS | Capitão Pátria (The Boys)",
+        "description": "- Ouça o 7 Minutoz nas plataformas digitais -\nSpotify: https://open.spotify.com/intl-pt/artist/2563ILWHSx52eOxOoi5rJW?si=X2EINUYHSVGIANByLQ4YLw\nDeezer: https://deezer.page.link/ndit5w1yhadsA4Un7\nApple Music: https://music.apple.com/br/artist/7-minutoz/1316956452\n\n- Leia o Game Over Squad, o 1º Mangá Original 7 Minutoz -\nhttps://www.webtoons.com/en/canvas/game-over-squad/list?title_no=624380\n\nPRODUÇÃO MUSICAL\nDIREÇÃO ARTÍSTICA e VOCAIS: Lucas A.R.T. (@7mz_lucas)\nCOMPOSIÇÃO e LETRA: Lucas A.R.T. e Onni (@onnioficial)\nCORAL: Lucas A.R.T. e Onni\nVOCAIS ADICIONAIS: Onni\nINSTRUMENTAL: WL (@wlwave) e Dakvir (@prod.dakvir)\nGUITARRAS: WL\nSOLO DE GUITARRA: Hiroto (@arturg_b)\nMIXAGEM e MASTERIZAÇÃO: Peu028 (@peu028)\nASSISTÊNCIA DE MIXAGEM: Murilo Nunes (@murilonunesmix)\n\nPRODUÇÃO DO VIDEOCLIPE\nDIREÇÃO VISUAL: MB (@guzz_mb)\nEDIÇÃO DE VÍDEO: MB, Malaksans (@malaksans), Zalen (@Zalen_Editor), Misty (@MistycSz), Nickel (@nickel_editor), Manhoso (@manhosoeditor), TGZE (@tgeditor85), 3DMIG (@MigJKJ), Sunny (@eosunnyy), Kizuna (@kizunakkkk), Znow (@znowaex_ofc), Naron (@l_naronn), Hasty (@hastyaex), LightSL (@LLightSL), oAmorim (@oamorimeditor), Coalinha (@c0alinhaEditor), Jorak (@Jorakeditor), LYZ (@lyz_editsx), Luck (@Luck_aex), All (@AlleditorGK), oLeozin (@oleozineditor), Theuo (@srtheuoeditor), Ayato (@ayatoaex), Gowww (@gowwwedits), Redzzz (@R3dzzz_), MaTTe (@eusoumatte), Smoker (@smoker_editss), Zada (@zada_comissions) e Only (@OnLyEditorr) \n\nPRODUÇÃO DO LANÇAMENTO\nILUSTRAÇÃO DA THUMBNAIL: Yuzo (@yuzodeen)\nFINALIZAÇÃO DA THUMBNAIL: Freddy Onírico™️ (@salvefreddy)\nCAPA DAS PLATAFORMAS DIGITAIS: Freddy Onírico™️\nLEGENDAS DO YOUTUBE: Insanity (@irlan_derick)\n\nPARTES DA MÚSICA\n00:00 Intro: Malaksans\n00:08 Intro: Zalen\n00:16 Intro: Misty\n00:23 Intro: Nickel\n00:32 Intro: Manhoso\n00:39 Verso I: Tgze\n00:47 Verso I: 3DMIG\n00:56 Verso I: Sunny\n01:04 Verso I: Kizuna\n01:11 Refrão: Znow\n01:47 Verso II: Naron\n01:56 Verso II: Hasty\n02:03 Verso II: LightSL\n02:11 Verso II: OAmorim\n02:20 Verso II: Coalinha\n02:28 Verso II: Jorak\n02:36 Verso II: Lyz\n02:44 Verso II: Luck\n02:52 Ponte I: All\n02:59 Ponte I: OLeozin\n03:07 Ponte I: Theuo\n03:15 Ponte I: LightSL\n03:24 Breakdown: Ayato\n03:31 Breakdown: Gowww\n03:39 Breakdown: Redzzz\n03:48 Breakdown: maTTE\n03:55 Ponte II: Smoker\n04:03 Ponte II: Zada\n04:11 Refrão: Only\n04:27 Refrão: Znow\n04:45 Créditos: MB\n\n7 Minutoz © 2026 (@7mzoficial)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Kvnfecwb60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Kvnfecwb60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Kvnfecwb60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Kvnfecwb60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Kvnfecwb60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/5Kvnfecwb60/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "7 Minutoz",
+        "tags": [
+          "Música geek",
+          "NERD HITS",
+          "Rap geek",
+          "7 Minutoz",
+          "7MZ",
+          "Lucas A.R.T.",
+          "Música",
+          "Metal",
+          "Rock",
+          "Capitão Pátria",
+          "Homelander",
+          "The Boys",
+          "Nerdcore"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt",
+        "localized": {
+          "title": "7 Minutoz - SOU DEUS | Capitão Pátria (The Boys)",
+          "description": "- Ouça o 7 Minutoz nas plataformas digitais -\nSpotify: https://open.spotify.com/intl-pt/artist/2563ILWHSx52eOxOoi5rJW?si=X2EINUYHSVGIANByLQ4YLw\nDeezer: https://deezer.page.link/ndit5w1yhadsA4Un7\nApple Music: https://music.apple.com/br/artist/7-minutoz/1316956452\n\n- Leia o Game Over Squad, o 1º Mangá Original 7 Minutoz -\nhttps://www.webtoons.com/en/canvas/game-over-squad/list?title_no=624380\n\nPRODUÇÃO MUSICAL\nDIREÇÃO ARTÍSTICA e VOCAIS: Lucas A.R.T. (@7mz_lucas)\nCOMPOSIÇÃO e LETRA: Lucas A.R.T. e Onni (@onnioficial)\nCORAL: Lucas A.R.T. e Onni\nVOCAIS ADICIONAIS: Onni\nINSTRUMENTAL: WL (@wlwave) e Dakvir (@prod.dakvir)\nGUITARRAS: WL\nSOLO DE GUITARRA: Hiroto (@arturg_b)\nMIXAGEM e MASTERIZAÇÃO: Peu028 (@peu028)\nASSISTÊNCIA DE MIXAGEM: Murilo Nunes (@murilonunesmix)\n\nPRODUÇÃO DO VIDEOCLIPE\nDIREÇÃO VISUAL: MB (@guzz_mb)\nEDIÇÃO DE VÍDEO: MB, Malaksans (@malaksans), Zalen (@Zalen_Editor), Misty (@MistycSz), Nickel (@nickel_editor), Manhoso (@manhosoeditor), TGZE (@tgeditor85), 3DMIG (@MigJKJ), Sunny (@eosunnyy), Kizuna (@kizunakkkk), Znow (@znowaex_ofc), Naron (@l_naronn), Hasty (@hastyaex), LightSL (@LLightSL), oAmorim (@oamorimeditor), Coalinha (@c0alinhaEditor), Jorak (@Jorakeditor), LYZ (@lyz_editsx), Luck (@Luck_aex), All (@AlleditorGK), oLeozin (@oleozineditor), Theuo (@srtheuoeditor), Ayato (@ayatoaex), Gowww (@gowwwedits), Redzzz (@R3dzzz_), MaTTe (@eusoumatte), Smoker (@smoker_editss), Zada (@zada_comissions) e Only (@OnLyEditorr) \n\nPRODUÇÃO DO LANÇAMENTO\nILUSTRAÇÃO DA THUMBNAIL: Yuzo (@yuzodeen)\nFINALIZAÇÃO DA THUMBNAIL: Freddy Onírico™️ (@salvefreddy)\nCAPA DAS PLATAFORMAS DIGITAIS: Freddy Onírico™️\nLEGENDAS DO YOUTUBE: Insanity (@irlan_derick)\n\nPARTES DA MÚSICA\n00:00 Intro: Malaksans\n00:08 Intro: Zalen\n00:16 Intro: Misty\n00:23 Intro: Nickel\n00:32 Intro: Manhoso\n00:39 Verso I: Tgze\n00:47 Verso I: 3DMIG\n00:56 Verso I: Sunny\n01:04 Verso I: Kizuna\n01:11 Refrão: Znow\n01:47 Verso II: Naron\n01:56 Verso II: Hasty\n02:03 Verso II: LightSL\n02:11 Verso II: OAmorim\n02:20 Verso II: Coalinha\n02:28 Verso II: Jorak\n02:36 Verso II: Lyz\n02:44 Verso II: Luck\n02:52 Ponte I: All\n02:59 Ponte I: OLeozin\n03:07 Ponte I: Theuo\n03:15 Ponte I: LightSL\n03:24 Breakdown: Ayato\n03:31 Breakdown: Gowww\n03:39 Breakdown: Redzzz\n03:48 Breakdown: maTTE\n03:55 Ponte II: Smoker\n04:03 Ponte II: Zada\n04:11 Refrão: Only\n04:27 Refrão: Znow\n04:45 Créditos: MB\n\n7 Minutoz © 2026 (@7mzoficial)"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT5M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "449374",
+        "likeCount": "35654",
+        "favoriteCount": "0",
+        "commentCount": "1816"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "q7YTnxZEiGAHDVoMik4W6vtIPKo",
+      "id": "B2cDGfe7870",
+      "snippet": {
+        "publishedAt": "2026-09-26T15:00:24Z",
+        "channelId": "UCtKndmEnQyqkhOQfpi5CgvQ",
+        "title": "Os MELHORES TRUQUES da Nova Atualização 26.3 - Craft Games 355",
+        "description": "A Versão 7.1 do Genshin Impact chegou! 🎉\nDescubra a nova Versão 7.1, com novos personagens, novos conteúdos de história e recompensas especiais de aniversário!\n🎁 Use o código: DU0HJ5VA00BM\n🔗 Jogue Genshin Impact: https://hoyo.link/OoAhxz9el\n#GenshinImpact #StoriesofFrostSnow\n\n+Episódios de CraftGames: https://www.youtube.com/playlist?list=PLCp7embZy6ugEc41yQ-Ju858S23pQ4T-w\nCanal do Viniccius: @viniccius13 \n\n✗Instagram: http://instagram.com/davifreitas.png\n✗Twitter: http://twitter.com/hddavigamer\n\n📌 Contato(profissional) davigamerpublicidade@gmail.com\n\n\n\nEditor: @RattoON \n\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n✏ Informações do Jogo\nMinecraft 26.3\n\n\n\n◂ Davi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B2cDGfe7870/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B2cDGfe7870/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B2cDGfe7870/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B2cDGfe7870/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B2cDGfe7870/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/B2cDGfe7870/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Davi",
+        "tags": [
+          "minecraft",
+          "minecraft 26.3",
+          "atualização 26.3",
+          "nova atualização",
+          "minecraft update",
+          "minecraft novidades",
+          "novidades minecraft",
+          "almofadas minecraft",
+          "almofada minecraft",
+          "cushion minecraft",
+          "dicas minecraft",
+          "truques minecraft",
+          "dicas e truques",
+          "segredos minecraft",
+          "decoração minecraft",
+          "minecraft decoração",
+          "novos blocos",
+          "minecraft survival",
+          "minecraft brasil",
+          "minecraft em portugues",
+          "craftgames",
+          "viniccius13",
+          "viniccius",
+          "minecraft 2026",
+          "update 26.3",
+          "ideias minecraft",
+          "truques decoração"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Os MELHORES TRUQUES da Nova Atualização 26.3 - Craft Games 355",
+          "description": "A Versão 7.1 do Genshin Impact chegou! 🎉\nDescubra a nova Versão 7.1, com novos personagens, novos conteúdos de história e recompensas especiais de aniversário!\n🎁 Use o código: DU0HJ5VA00BM\n🔗 Jogue Genshin Impact: https://hoyo.link/OoAhxz9el\n#GenshinImpact #StoriesofFrostSnow\n\n+Episódios de CraftGames: https://www.youtube.com/playlist?list=PLCp7embZy6ugEc41yQ-Ju858S23pQ4T-w\nCanal do Viniccius: @viniccius13 \n\n✗Instagram: http://instagram.com/davifreitas.png\n✗Twitter: http://twitter.com/hddavigamer\n\n📌 Contato(profissional) davigamerpublicidade@gmail.com\n\n\n\nEditor: @RattoON \n\nProduction Music courtesy of Epidemic Sound: http://www.epidemicsound.com\n✏ Informações do Jogo\nMinecraft 26.3\n\n\n\n◂ Davi"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT37M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "291828",
+        "likeCount": "22749",
+        "favoriteCount": "0",
+        "commentCount": "795"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QYXKfO9CEtaPqyJWwtOZKxvwno4",
+      "id": "p857Zyk8GJY",
+      "snippet": {
+        "publishedAt": "2026-09-25T21:00:06Z",
+        "channelId": "UCrtvklG_Td9RnOazwbbeujA",
+        "title": "Liga Joe - Wish You Were Here - Ao Vivo em São Paulo - Flashbacks 20 Anos",
+        "description": "Liga Joe interpretando \"Wish You Were Here\" (Pink Floyd)\n\nShow \"Flashbacks 20 Anos\" - Ao Vivo em São Paulo\nGravado ao vivo em 22/05/2026 \n\nLiga Joe é:\nGustavo Voz - Baixo e Vocal\nSérgio Seddi - Guitarras\nGel Fernandes - Bateria\nDiogo Barbosa - Teclados\nParticipação especial - Júnior Valadão (Violão e backing vocals)\n\nMixado e Masterizado por Júnior Valadão (Instagram: @juniorvaladao)\nSiga-nos nas redes sociais! @ligajoe\n\nContato para shows: (62) 99987-0642",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p857Zyk8GJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p857Zyk8GJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p857Zyk8GJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p857Zyk8GJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p857Zyk8GJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/p857Zyk8GJY/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Liga Joe",
+        "tags": [
+          "liga joe",
+          "flashbacks",
+          "flashback",
+          "europe",
+          "final countdown",
+          "the final countdown",
+          "lionel richie",
+          "It’s My Life",
+          "Can’t Fight This Feeling",
+          "Maniac",
+          "Alvorada Voraz",
+          "Everything I Own",
+          "Give Me Your Heart Tonight",
+          "Viagem Ao Fundo Do Ego",
+          "Stand By Me",
+          "Só Pro Meu Prazer",
+          "laura branigan",
+          "bon jovi",
+          "reo speedwagon",
+          "Michael sembelo",
+          "rpm",
+          "bread",
+          "david gates",
+          "egotrip",
+          "Pink floyd",
+          "Wish you eere here"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Liga Joe - Wish You Were Here - Ao Vivo em São Paulo - Flashbacks 20 Anos",
+          "description": "Liga Joe interpretando \"Wish You Were Here\" (Pink Floyd)\n\nShow \"Flashbacks 20 Anos\" - Ao Vivo em São Paulo\nGravado ao vivo em 22/05/2026 \n\nLiga Joe é:\nGustavo Voz - Baixo e Vocal\nSérgio Seddi - Guitarras\nGel Fernandes - Bateria\nDiogo Barbosa - Teclados\nParticipação especial - Júnior Valadão (Violão e backing vocals)\n\nMixado e Masterizado por Júnior Valadão (Instagram: @juniorvaladao)\nSiga-nos nas redes sociais! @ligajoe\n\nContato para shows: (62) 99987-0642"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT4M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "79275",
+        "likeCount": "1443",
+        "favoriteCount": "0",
+        "commentCount": "71"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IGIEVR0sGtKqJLkj-Wl6xBTbw18",
+      "id": "NhrotOZa-q4",
+      "snippet": {
+        "publishedAt": "2026-09-26T16:48:36Z",
+        "channelId": "UC5mC_S9d0yGeUUY-n3lfyHw",
+        "title": "EU PEGUEI 6 DIVINOS NESSE VÍDEO DE ROUBE UM OVO 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NhrotOZa-q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NhrotOZa-q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NhrotOZa-q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NhrotOZa-q4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NhrotOZa-q4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JeffBlox",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "EU PEGUEI 6 DIVINOS NESSE VÍDEO DE ROUBE UM OVO 😱",
+          "description": ""
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT19M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "169962",
+        "likeCount": "3510",
+        "favoriteCount": "0",
+        "commentCount": "131"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IGWh1UhmEis4riNotUc__YLPhgY",
+      "id": "aa78uXsuPTg",
+      "snippet": {
+        "publishedAt": "2026-09-25T21:20:41Z",
+        "channelId": "UCZ9IvUPzv3TjJxnj8_-F-lw",
+        "title": "TU VAI DE QUEDA - MC WS da Leste, DJ GH Sheik (Official Music Video)",
+        "description": "Ouça em todas as plataformas digitais: \n\nArtistas: MC WS da Leste, DJ GH Sheik\nProdução: DJ GH Sheik\nMúsica: Tu vai de queda \n\nDir:  GFPROD\nAss: Orandu, Marco Paulo\nFotografia: Carol Monteiro\n\n#piseiro2026 #piseiro #voidmusic \nVoid Music © 2026, Todos Os Direitos Reservados.\nTranscript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aa78uXsuPTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aa78uXsuPTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aa78uXsuPTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aa78uXsuPTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aa78uXsuPTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mc Ws da leste",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "TU VAI DE QUEDA - MC WS da Leste, DJ GH Sheik (Official Music Video)",
+          "description": "Ouça em todas as plataformas digitais: \n\nArtistas: MC WS da Leste, DJ GH Sheik\nProdução: DJ GH Sheik\nMúsica: Tu vai de queda \n\nDir:  GFPROD\nAss: Orandu, Marco Paulo\nFotografia: Carol Monteiro\n\n#piseiro2026 #piseiro #voidmusic \nVoid Music © 2026, Todos Os Direitos Reservados.\nTranscript"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT2M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "127893",
+        "likeCount": "3028",
+        "favoriteCount": "0",
+        "commentCount": "152"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "K_iGEbNTUxvSCvm3APzP_ctjtgU",
+      "id": "JtFdiVcc1jQ",
+      "snippet": {
+        "publishedAt": "2026-09-25T15:00:14Z",
+        "channelId": "UCIXguhHCl8eDTkXpEuiGPUA",
+        "title": "QUEM DIRIA QUE SER UM SEGURANÇA NOTURNO EM UM ESTACIONAMENTO IA DAR RUIM, HEIN???",
+        "description": "Conheça o Astra 2 Gaming Table da RED MAGIC: https://rmg.gg/b898c854 \n#REDMAGICAstra2\n\nQuem diria que ser um guarda noturno em um estacionamento daria ruim, hein??? CONFIRA E SARAIVA O LIKE!\n●Nome do Jogo: Night Guard - The Last Shift\n======================\n●Instagram: julianoab\n●Email de contato: comercial@agenciacurta.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JtFdiVcc1jQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JtFdiVcc1jQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JtFdiVcc1jQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JtFdiVcc1jQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JtFdiVcc1jQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jazzghost",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "QUEM DIRIA QUE SER UM SEGURANÇA NOTURNO EM UM ESTACIONAMENTO IA DAR RUIM, HEIN???",
+          "description": "Conheça o Astra 2 Gaming Table da RED MAGIC: https://rmg.gg/b898c854 \n#REDMAGICAstra2\n\nQuem diria que ser um guarda noturno em um estacionamento daria ruim, hein??? CONFIRA E SARAIVA O LIKE!\n●Nome do Jogo: Night Guard - The Last Shift\n======================\n●Instagram: julianoab\n●Email de contato: comercial@agenciacurta.com"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT45M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2270088",
+        "likeCount": "90171",
+        "favoriteCount": "0",
+        "commentCount": "3927"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "S00E1QDklocgfK47jYCF7rme2yI",
+      "id": "39H_BQL06Bk",
+      "snippet": {
+        "publishedAt": "2026-09-25T15:20:10Z",
+        "channelId": "UCRuQR6BGGKHIE340iVwWCvg",
+        "title": "Mikael Santos - In Brega na Vaquejada - Sensível demais",
+        "description": "#MikaelSantos #Arrocha #InBreganaVaquejada\n\n--- Siga Mikael Santos na sua plataforma favorita: \nhttps://linklist.bio/mikaelsantosoficial\n.\nSENSÍVEL DEMAIS\n-\nRealização\nWB Entretenimento / Modo Full\n\nProdução Musical\nRafael Lisboa\n\nÁudio\nRicardo Pezão Mix\n\nVídeo\nDMT Filmes\n\nLocal\nLagarto/Se - Parque Zezé Rocha",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/39H_BQL06Bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/39H_BQL06Bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/39H_BQL06Bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/39H_BQL06Bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/39H_BQL06Bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/39H_BQL06Bk/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Mikael Santos Oficial ",
+        "tags": [
+          "mikaelsantos",
+          "arrocha",
+          "cdnovo",
+          "repertorionovo",
+          "unhapintada",
+          "devinho",
+          "nadson",
+          "heitorcosta",
+          "musicanova",
+          "natanzinho",
+          "natanzinholima",
+          "msnoparedão"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Mikael Santos - In Brega na Vaquejada - Sensível demais",
+          "description": "#MikaelSantos #Arrocha #InBreganaVaquejada\n\n--- Siga Mikael Santos na sua plataforma favorita: \nhttps://linklist.bio/mikaelsantosoficial\n.\nSENSÍVEL DEMAIS\n-\nRealização\nWB Entretenimento / Modo Full\n\nProdução Musical\nRafael Lisboa\n\nÁudio\nRicardo Pezão Mix\n\nVídeo\nDMT Filmes\n\nLocal\nLagarto/Se - Parque Zezé Rocha"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT2M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "43345",
+        "likeCount": "464",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xlIsFBs3WznuEWXvaJjdirh9Xfg",
+      "id": "8pbfgrsrnLQ",
+      "snippet": {
+        "publishedAt": "2026-09-26T22:00:05Z",
+        "channelId": "UCZ5EhVtjHsdha52CiOcFvvg",
+        "title": "LOKIS NO ÔNIBUS COM ZUMBIS | Roblox - Survive Bus Ride",
+        "description": "Hoje veremos o Lokis no ônibus com zumbis.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8pbfgrsrnLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8pbfgrsrnLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8pbfgrsrnLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8pbfgrsrnLQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8pbfgrsrnLQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/8pbfgrsrnLQ/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Lokis",
+        "tags": [
+          "roblox",
+          "lokis",
+          "lokis roblox",
+          "looks",
+          "looks roblox",
+          "loquinho roblox",
+          "loquinho",
+          "ônibus com zumbis",
+          "ônibus roblox",
+          "zumbis roblox"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "LOKIS NO ÔNIBUS COM ZUMBIS | Roblox - Survive Bus Ride",
+          "description": "Hoje veremos o Lokis no ônibus com zumbis."
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT10M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "58293",
+        "likeCount": "482",
+        "favoriteCount": "0",
+        "commentCount": "38"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MNlUCjFNHpq_GZR5ABVzu0x6LUk",
+      "id": "Llws8JbHPRA",
+      "snippet": {
+        "publishedAt": "2026-09-20T15:00:12Z",
+        "channelId": "UCwSIAdVMUNj4w730a1sNYXg",
+        "title": "DIÁRIO DE UM CAFAJESTE - MC Lele JP, MC Meno K, MC Ryan SP, MC Tuto, MC Negão Original (DJ Oreia)",
+        "description": "Ouça nossa Playlist no Spotify \nhttps://bit.ly/44xZYFQ\n\nDivulgue sua música conosco:\n(11) 94510-9094\n\nInformações sobre a música:\nArtista: MC Lele JP, MC Meno K, MC Ryan SP, MC Tuto, MC Negão Original\nMúsica: DIÁRIO DE UM CAFAJESTE\nProdução musical: DJ Oreia\nAno: 2026",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Llws8JbHPRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Llws8JbHPRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Llws8JbHPRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Llws8JbHPRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Llws8JbHPRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/Llws8JbHPRA/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "PAREDÃO HITS by 24por48",
+        "tags": [
+          "MC Lele JP",
+          "MC Meno K",
+          "MC Ryan SP",
+          "MC Tuto",
+          "MC Negão Original",
+          "DIÁRIO DE UM CAFAJESTE",
+          "o amor nao paga as conta",
+          "cafajeste chucro",
+          "funk"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "DIÁRIO DE UM CAFAJESTE - MC Lele JP, MC Meno K, MC Ryan SP, MC Tuto, MC Negão Original (DJ Oreia)",
+          "description": "Ouça nossa Playlist no Spotify \nhttps://bit.ly/44xZYFQ\n\nDivulgue sua música conosco:\n(11) 94510-9094\n\nInformações sobre a música:\nArtista: MC Lele JP, MC Meno K, MC Ryan SP, MC Tuto, MC Negão Original\nMúsica: DIÁRIO DE UM CAFAJESTE\nProdução musical: DJ Oreia\nAno: 2026"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT6M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "47766",
+        "likeCount": "270",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1mL4EFCvSueDfyavv8a0MPqwJDw",
+      "id": "57ikrwA9Xxk",
+      "snippet": {
+        "publishedAt": "2026-09-26T22:15:29Z",
+        "channelId": "UCUaUhkLyJCgVOMB8YOKSN8g",
+        "title": "EU SÓ TENHO QUE ALIMENTAR MEU GATO MAS PERAI... EU NÃO TENHO GATO.",
+        "description": "Obrigada por assistir :)\n\nminhas redes:\nhttps://instagram.com/playguima",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/57ikrwA9Xxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/57ikrwA9Xxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/57ikrwA9Xxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/57ikrwA9Xxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/57ikrwA9Xxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Play Guima",
+        "tags": [
+          "guima",
+          "play guima",
+          "play guiminha",
+          "play quina",
+          "quina",
+          "guiminha",
+          "jogos",
+          "games",
+          "jogos gratuito",
+          "gratuito",
+          "gameplay"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "EU SÓ TENHO QUE ALIMENTAR MEU GATO MAS PERAI... EU NÃO TENHO GATO.",
+          "description": "Obrigada por assistir :)\n\nminhas redes:\nhttps://instagram.com/playguima"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT13M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "73708",
+        "likeCount": "2873",
+        "favoriteCount": "0",
+        "commentCount": "721"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gJlj7OoyrjXQIY8bc6Ogauw9I7E",
+      "id": "C32AelKromk",
+      "snippet": {
+        "publishedAt": "2026-09-25T21:00:02Z",
+        "channelId": "UCuRHJZp4IpBg0lCmlH7gaAg",
+        "title": "É CHIB4T4D4 NO FILHO DO CAPITAO É LULA 2026 (VIDEO CLIPE OFICIAL) FORRÓ 100 PRECONCEITO",
+        "description": "PRODUÇÃO MUSICAL E ARTISTICA E ACESSORIA KABRAL STUDIOS\nhttps://www.instagram.com/kabraldosparedoesoficial/\n\nCONTATO PARA SHOWS\n📲 (11)9.7167-7072 ESCRITÓRIO 100 PRECONCEITO SHOWS \n📲 (11)9.9809-3332 KABRAL\nhttps://wa.me/5511971677072\n\nSeja membro deste canal e ganhe benefícios:\n\n PUBLICIDADE: https://www.instagram.com/kabraldosparedoesoficial/\n =================\n\nhttps://www.facebook.com/forro100preconceitoinstagram/?viewas=10CIAIS:0000686899395\nhttps://www.instagram.com/forro100preconceitoofical/\nhttps://www.tiktok.com/@forro100preconceitoofc\nhttps://www.kwai.com/@Foro100preconceito\nhttps://www.threads.com/@forro100preconceitoofical\n\n#forró100preconceito #forró #musica #lançamento #musicanova #amaquinadefabricarsucesso #lula",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C32AelKromk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C32AelKromk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C32AelKromk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C32AelKromk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C32AelKromk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FORRÓ 100 PRECONCEITO",
+        "tags": [
+          "musica",
+          "forró",
+          "piseiro",
+          "show",
+          "videoclipe",
+          "cintura de mola",
+          "forró 100 preconceito",
+          "100 preconceito",
+          "sem preconceito",
+          "100 preceito",
+          "100 preconseito",
+          "roberio",
+          "guilherme silva",
+          "safadão",
+          "xand avião",
+          "manu batidão",
+          "feras do piseiro",
+          "anitta",
+          "tatuagem de anitta",
+          "musica da tatuagem da anita",
+          "irmão do cintura de mola",
+          "forró 100 preconeito musica nova",
+          "cd completo",
+          "forró pra paredão",
+          "forró de paredao",
+          "dançarinas",
+          "banda de forrró top",
+          "musica de forró boa",
+          "banda que toca forró",
+          "compositor"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "É CHIB4T4D4 NO FILHO DO CAPITAO É LULA 2026 (VIDEO CLIPE OFICIAL) FORRÓ 100 PRECONCEITO",
+          "description": "PRODUÇÃO MUSICAL E ARTISTICA E ACESSORIA KABRAL STUDIOS\nhttps://www.instagram.com/kabraldosparedoesoficial/\n\nCONTATO PARA SHOWS\n📲 (11)9.7167-7072 ESCRITÓRIO 100 PRECONCEITO SHOWS \n📲 (11)9.9809-3332 KABRAL\nhttps://wa.me/5511971677072\n\nSeja membro deste canal e ganhe benefícios:\n\n PUBLICIDADE: https://www.instagram.com/kabraldosparedoesoficial/\n =================\n\nhttps://www.facebook.com/forro100preconceitoinstagram/?viewas=10CIAIS:0000686899395\nhttps://www.instagram.com/forro100preconceitoofical/\nhttps://www.tiktok.com/@forro100preconceitoofc\nhttps://www.kwai.com/@Foro100preconceito\nhttps://www.threads.com/@forro100preconceitoofical\n\n#forró100preconceito #forró #musica #lançamento #musicanova #amaquinadefabricarsucesso #lula"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT2M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "31906",
+        "likeCount": "975",
+        "favoriteCount": "0",
+        "commentCount": "35"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Hv-M-4BeO5q8pwXxDdjhe4ifH8Q",
+      "id": "GcN8h_N4D7Y",
+      "snippet": {
+        "publishedAt": "2026-09-26T21:04:39Z",
+        "channelId": "UC48rkTlXjRd6pnqqBkdV0Mw",
+        "title": "FURIA x RED | CBLOL 2026 - 2ª Etapa | Playoffs - Dia 7 (Md5)",
+        "description": "Acompanhe mais uma transmissão da Segunda Etapa do CBLOL 2026. Quais equipes se classificarão ao Worlds e quem será o grande campeão? De 25 de julho a 10 de outubro.\n\nSábado, 26 de setembro de 2026:\n13h - FURIA x RED Canids Kalunga\n\nSiga nossos canais:\nX: https://twitter.com/CBLOL\nInstagram: https://instagram.com/CBLOL\nTwitch: https://twitch.tv/cblol\nKick: https://kick.com/cblol\nTikTok: https:/tiktok.com/@cblol\nWhatsApp: https://bit.ly/cblolzap",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GcN8h_N4D7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GcN8h_N4D7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GcN8h_N4D7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GcN8h_N4D7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GcN8h_N4D7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/GcN8h_N4D7Y/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "CBLOL",
+        "tags": [
+          "LoL",
+          "LoL Esports",
+          "League of Legends",
+          "Esports",
+          "Riot Games",
+          "Riot",
+          "LoL Esports BR",
+          "CBLOL",
+          "LOUD",
+          "paiN",
+          "RED",
+          "VKS",
+          "FLUXO",
+          "FURIA",
+          "LEVIATÁN",
+          "LOS"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "FURIA x RED | CBLOL 2026 - 2ª Etapa | Playoffs - Dia 7 (Md5)",
+          "description": "Acompanhe mais uma transmissão da Segunda Etapa do CBLOL 2026. Quais equipes se classificarão ao Worlds e quem será o grande campeão? De 25 de julho a 10 de outubro.\n\nSábado, 26 de setembro de 2026:\n13h - FURIA x RED Canids Kalunga\n\nSiga nossos canais:\nX: https://twitter.com/CBLOL\nInstagram: https://instagram.com/CBLOL\nTwitch: https://twitch.tv/cblol\nKick: https://kick.com/cblol\nTikTok: https:/tiktok.com/@cblol\nWhatsApp: https://bit.ly/cblolzap"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT5H45M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "261440",
+        "likeCount": "4867",
+        "favoriteCount": "0",
+        "commentCount": "16"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "V4rKfh2JMPGaJbTrIYc9aXj3x4o",
+      "id": "kfUoNjaDE4c",
+      "snippet": {
+        "publishedAt": "2026-09-25T00:02:39Z",
+        "channelId": "UCfgGWpl_MgFXlk1hwYiArgQ",
+        "title": "Ta Tudo Errado",
+        "description": "Provided to YouTube by The Orchard Enterprises\n\nTa Tudo Errado · Péricles · Cauique · Cátia Gonzaga · Filipe Toca · Fabio Brazza\n\nCamuflagem\n\n℗ 2026 Farias Produções\n\nReleased on: 2026-09-24\n\nProducer: Izaias Marcelo\nMusic Publisher: Olê Olá\nMusic Publisher: Direto\nMusic Publisher: Warner\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kfUoNjaDE4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kfUoNjaDE4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kfUoNjaDE4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kfUoNjaDE4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kfUoNjaDE4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Péricles - Topic",
+        "tags": [
+          "Péricles",
+          "Cauique",
+          "Cátia Gonzaga",
+          "Filipe Toca",
+          "Fabio Brazza",
+          "Camuflagem",
+          "Ta Tudo Errado"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Ta Tudo Errado",
+          "description": "Provided to YouTube by The Orchard Enterprises\n\nTa Tudo Errado · Péricles · Cauique · Cátia Gonzaga · Filipe Toca · Fabio Brazza\n\nCamuflagem\n\n℗ 2026 Farias Produções\n\nReleased on: 2026-09-24\n\nProducer: Izaias Marcelo\nMusic Publisher: Olê Olá\nMusic Publisher: Direto\nMusic Publisher: Warner\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AE",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "BG",
+            "BH",
+            "BM",
+            "BO",
+            "BR",
+            "BY",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GE",
+            "GF",
+            "GH",
+            "GP",
+            "GR",
+            "GT",
+            "GU",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KH",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LI",
+            "LK",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MK",
+            "MP",
+            "MQ",
+            "MT",
+            "MX",
+            "MY",
+            "NC",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PR",
+            "PT",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SN",
+            "SV",
+            "TC",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "VE",
+            "VI",
+            "VN",
+            "YE",
+            "YT",
+            "ZA",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "30368",
+        "likeCount": "217",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uymI5TOvU8UGza8Tvo9PUMWksjE",
+      "id": "6IDa0lJekoA",
+      "snippet": {
+        "publishedAt": "2026-09-26T15:00:05Z",
+        "channelId": "UCxu6ptkyCUoZj7rsrYYB0GA",
+        "title": "UMA AULA AVANÇADA DE COMO ROUBAR OVOS NO ROBLOX",
+        "description": "🟡🟡SEJA UM MEMBRO🟡🟡\nTenha acesso a conteudos exclusivos e muito mais! \nhttps://www.youtube.com/channel/UCxu6ptkyCUoZj7rsrYYB0GA/join\n\n🐺⚫️Acesse a Alpha e ganhe um desconto especial com o cupom BISTECONE: https://usealphaco.com.br/discount/bistecone\n\n🔴🔴Acesse a GROWTH e adquira seus suplementos com desconto!\ncupom: BISTECONE: https://www.gsuplementos.com.br/\n\n🟣🟣LIVE TWITCH 19H🟣🟣\nLINK TWITCH:  https://www.twitch.tv/bisteconee\n\nCANAL VLOGS @Bisteconee\nCANAL CORTES  ⁨@CortesBisteconeOficiall⁩  \n\nLink do DISCORD:\nhttps://discord.gg/bisteconee\n\nMe segue nas redes sociais:\nInstagram:\nhttps://www.instagram.com/bistecone_/\nTikTok:\nhttps://www.tiktok.com/@bistecone1?lang=pt-BR",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6IDa0lJekoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6IDa0lJekoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6IDa0lJekoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6IDa0lJekoA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6IDa0lJekoA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BisteconeLive",
+        "tags": [
+          "BISTECONE voltou pro PRIME (supermarket simulator)",
+          "supermarket",
+          "supermarket simulador",
+          "supermarket simulator",
+          "bistecone",
+          "bisteconne",
+          "bisteconee",
+          "bisteconeLIVE",
+          "bisteca",
+          "slurp br",
+          "rages",
+          "bistecone rages",
+          "prime",
+          "gta rp",
+          "shelby",
+          "thomas shelby",
+          "bestecone",
+          "super",
+          "paulinho oloko",
+          "bisticone",
+          "bistecone voltou pro prime",
+          "bistecone nao pode gritar",
+          "bistecone com medo",
+          "bistecone silent",
+          "silent breath",
+          "granny 5",
+          "bistecone granny 5",
+          "bistecone granny",
+          "alanzoka granny",
+          "jogo granny",
+          "granny jogo terror"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "UMA AULA AVANÇADA DE COMO ROUBAR OVOS NO ROBLOX",
+          "description": "🟡🟡SEJA UM MEMBRO🟡🟡\nTenha acesso a conteudos exclusivos e muito mais! \nhttps://www.youtube.com/channel/UCxu6ptkyCUoZj7rsrYYB0GA/join\n\n🐺⚫️Acesse a Alpha e ganhe um desconto especial com o cupom BISTECONE: https://usealphaco.com.br/discount/bistecone\n\n🔴🔴Acesse a GROWTH e adquira seus suplementos com desconto!\ncupom: BISTECONE: https://www.gsuplementos.com.br/\n\n🟣🟣LIVE TWITCH 19H🟣🟣\nLINK TWITCH:  https://www.twitch.tv/bisteconee\n\nCANAL VLOGS @Bisteconee\nCANAL CORTES  ⁨@CortesBisteconeOficiall⁩  \n\nLink do DISCORD:\nhttps://discord.gg/bisteconee\n\nMe segue nas redes sociais:\nInstagram:\nhttps://www.instagram.com/bistecone_/\nTikTok:\nhttps://www.tiktok.com/@bistecone1?lang=pt-BR"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT19M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "230357",
+        "likeCount": "10284",
+        "favoriteCount": "0",
+        "commentCount": "415"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hjmcGaiSH6cmHZPHYsn7y7buK_s",
+      "id": "Y6cH-3-55IY",
+      "snippet": {
+        "publishedAt": "2026-09-24T21:00:09Z",
+        "channelId": "UCgcmf4g_yBShYvKi8xyayNQ",
+        "title": "Soró Silva MATUTO DO MATO (DVD Soró No Rancho)",
+        "description": "Música: \"Matuto Do Mato\" (DVD Soró No Rancho)\n\n\n\n\nProdução Musical: Soró Silva e Uelton Silva\nMixagem e Masterização: Uelton Silva\nDireção de vídeo: Pernas Vídeo\nProdutora: WShows Produções\nLocal: Rancho Do Nilsinho, Francisco Morato-SP\nCompositor: Siloeste Porto\n\n\nLetra \"Matuto Do Mato\" \n\n\n\nSou Raparigueiro da roça, Matuto Do Mato \nHilucona rebaixada, Topada de som \nÉ poeira subindo Tum Tum Tum Tum\n\n\nSou desse jeito, te prometo não mudo \nQuando mim conheceu, Eu já era assim \n\nGostava de farra, paredão, cavalo bom \nNo Tum Tum Tum aqui na Roça é assim\nGostava de farra, paredão, cavalo bom \nNo Tum Tum Tum aqui na Roça é assim\n\n\nSó tá chegando trenzão, de butina e chapelão \nUma subindo e a outra descendo\nSó tá chegando trenzão, de butina e chapelão \nUma subindo e a outra descendo \n\n\nSou Raparigueiro da roça, Matuto Do Mato \nHilucona rebaixada, Topada de som \nÉ poeira subindo Tum Tum Tum Tum\n\n\nSou Raparigueiro da roça, Matuto Do Mato \nHilucona rebaixada, Topada de som \nÉ poeira subindo Tum Tum Tum Tum\n\n\n\n\n\n\nSe inscreve no canal e confira todos os vídeos!🤠🙏🏻\n\n\nSiga Soró Silva nas redes sociais! 🤠\nYouTube: @sorosilvaoficial \nInstragam: https://www.instagram.com/sorosilva?stkn=MTFmanN5cHdycXRwdw==\nPágina Facebook: https://www.facebook.com/share/1EjMFmwZaV/\nTikTok: https://vm.tiktok.com/ZMJnwrEjv/\n\n\n\n\n\n\n\n\n\n\n\nAtive as notificações 🔔 para ser o primeiro a receber nossas novidades.\n\n\n\nsorosilva MatutoDoMato DVDSoronorancho oboiadeirochegou CheguecedoCheguecedo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y6cH-3-55IY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y6cH-3-55IY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y6cH-3-55IY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y6cH-3-55IY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y6cH-3-55IY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/Y6cH-3-55IY/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Soró Silva",
+        "tags": [
+          "#sorosilva #Deusefiel #cheguecedocheguecedo #forro #piseiro #minasgerais #saopaulo #bahia",
+          "#matutomato"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Soró Silva MATUTO DO MATO (DVD Soró No Rancho)",
+          "description": "Música: \"Matuto Do Mato\" (DVD Soró No Rancho)\n\n\n\n\nProdução Musical: Soró Silva e Uelton Silva\nMixagem e Masterização: Uelton Silva\nDireção de vídeo: Pernas Vídeo\nProdutora: WShows Produções\nLocal: Rancho Do Nilsinho, Francisco Morato-SP\nCompositor: Siloeste Porto\n\n\nLetra \"Matuto Do Mato\" \n\n\n\nSou Raparigueiro da roça, Matuto Do Mato \nHilucona rebaixada, Topada de som \nÉ poeira subindo Tum Tum Tum Tum\n\n\nSou desse jeito, te prometo não mudo \nQuando mim conheceu, Eu já era assim \n\nGostava de farra, paredão, cavalo bom \nNo Tum Tum Tum aqui na Roça é assim\nGostava de farra, paredão, cavalo bom \nNo Tum Tum Tum aqui na Roça é assim\n\n\nSó tá chegando trenzão, de butina e chapelão \nUma subindo e a outra descendo\nSó tá chegando trenzão, de butina e chapelão \nUma subindo e a outra descendo \n\n\nSou Raparigueiro da roça, Matuto Do Mato \nHilucona rebaixada, Topada de som \nÉ poeira subindo Tum Tum Tum Tum\n\n\nSou Raparigueiro da roça, Matuto Do Mato \nHilucona rebaixada, Topada de som \nÉ poeira subindo Tum Tum Tum Tum\n\n\n\n\n\n\nSe inscreve no canal e confira todos os vídeos!🤠🙏🏻\n\n\nSiga Soró Silva nas redes sociais! 🤠\nYouTube: @sorosilvaoficial \nInstragam: https://www.instagram.com/sorosilva?stkn=MTFmanN5cHdycXRwdw==\nPágina Facebook: https://www.facebook.com/share/1EjMFmwZaV/\nTikTok: https://vm.tiktok.com/ZMJnwrEjv/\n\n\n\n\n\n\n\n\n\n\n\nAtive as notificações 🔔 para ser o primeiro a receber nossas novidades.\n\n\n\nsorosilva MatutoDoMato DVDSoronorancho oboiadeirochegou CheguecedoCheguecedo"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "54317",
+        "likeCount": "1162",
+        "favoriteCount": "0",
+        "commentCount": "35"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qZRo8qPDShvBe05buQeh1wKcJ6I",
+      "id": "NtHvrMJDIVw",
+      "snippet": {
+        "publishedAt": "2026-09-26T21:30:31Z",
+        "channelId": "UCKaKxSsyesC2NqNh89Ss7gw",
+        "title": "não posso derrubar esse BOLO, se não…",
+        "description": "Hoje joguei Don't Drop The Cake, um jogo de terror em que eu preciso atravessar lugares assustadores carregando um bolo que desliza a cada passo. Boa sorte pra gente s2\n\nInstagram: http://instagram.com/t3ddyyyy\nTwitter: http://twitter.com/t3ddyyyyy\nDiscord: https://discord.gg/famil\nReddit: https://www.reddit.com/r/famil\n\n§ De acordo com o Decreto 0807 T3ddy, assinado por Johny e Adalberto, quem ler a placa e não se inscrever responderá no Tribunal Canino de Assuntos Muito Sérios.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NtHvrMJDIVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NtHvrMJDIVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NtHvrMJDIVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NtHvrMJDIVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NtHvrMJDIVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "T3ddy, só que Games",
+        "tags": [
+          "don't drop the cake",
+          "dont drop the cake",
+          "don't drop the cake gameplay",
+          "jogo do bolo",
+          "jogo de terror",
+          "horror game",
+          "indie horror game",
+          "jogo assustador",
+          "jogo de susto",
+          "jumpscare game",
+          "equilibrar bolo",
+          "cake balancing game",
+          "jogo de perseguição",
+          "monstros perseguindo",
+          "jogo de fuga",
+          "gameplay terror",
+          "gameplay brasil",
+          "t3ddy gameplay",
+          "t3ddy",
+          "t3ddy games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "não posso derrubar esse BOLO, se não…",
+          "description": "Hoje joguei Don't Drop The Cake, um jogo de terror em que eu preciso atravessar lugares assustadores carregando um bolo que desliza a cada passo. Boa sorte pra gente s2\n\nInstagram: http://instagram.com/t3ddyyyy\nTwitter: http://twitter.com/t3ddyyyyy\nDiscord: https://discord.gg/famil\nReddit: https://www.reddit.com/r/famil\n\n§ De acordo com o Decreto 0807 T3ddy, assinado por Johny e Adalberto, quem ler a placa e não se inscrever responderá no Tribunal Canino de Assuntos Muito Sérios."
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT1H12M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "101660",
+        "likeCount": "6331",
+        "favoriteCount": "0",
+        "commentCount": "236"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5XbGze8GOOcAdykhYye_bviZVPo",
+      "id": "SJ4vWzlkuUo",
+      "snippet": {
+        "publishedAt": "2026-09-23T15:00:05Z",
+        "channelId": "UC9_FToc7jyNCI6njlBZRtZA",
+        "title": "Willy Vaqueiro - ROMARIA - EU AMEI UMA MULHER  - MINHA SOLIDÃO (Clipe Oficial)",
+        "description": "Já está disponível o clipe oficial de ROMARIA - EU AMEI UMA MULHER  - MINHA SOLIDÃO, faixa que faz parte do projeto, O Príncipe das Cavalgadas. ❤️\u200d🔥\n\n📲 SIGA o Vaqueiro nas redes:\nInstagram: https://www.instagram.com/willy_vaqueiro/?hl=pt-br\nTikTok: https://www.tiktok.com/@willy_vaqueiro \n\n🎼 FICHA TÉCNICA\n\nArtista: Willy Vaqueiro \nMúsica: Romaria / Eu Amei Uma Mulher / Minha Solidão \nCompositores: Renato Teixeira / Zé de Freitas / Romeu Kabaré\nProdução musical: Wallym \nDireção artística: Wagner Barbosa \nDireção de vídeo: Pedro HD\nLocal da gravação: Agrestina - PE \nData de gravação: 30.08",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SJ4vWzlkuUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SJ4vWzlkuUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SJ4vWzlkuUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SJ4vWzlkuUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SJ4vWzlkuUo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/SJ4vWzlkuUo/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Willy Vaqueiro",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Willy Vaqueiro - ROMARIA - EU AMEI UMA MULHER  - MINHA SOLIDÃO (Clipe Oficial)",
+          "description": "Já está disponível o clipe oficial de ROMARIA - EU AMEI UMA MULHER  - MINHA SOLIDÃO, faixa que faz parte do projeto, O Príncipe das Cavalgadas. ❤️\u200d🔥\n\n📲 SIGA o Vaqueiro nas redes:\nInstagram: https://www.instagram.com/willy_vaqueiro/?hl=pt-br\nTikTok: https://www.tiktok.com/@willy_vaqueiro \n\n🎼 FICHA TÉCNICA\n\nArtista: Willy Vaqueiro \nMúsica: Romaria / Eu Amei Uma Mulher / Minha Solidão \nCompositores: Renato Teixeira / Zé de Freitas / Romeu Kabaré\nProdução musical: Wallym \nDireção artística: Wagner Barbosa \nDireção de vídeo: Pedro HD\nLocal da gravação: Agrestina - PE \nData de gravação: 30.08"
+        },
+        "defaultAudioLanguage": "pt-PT"
+      },
+      "contentDetails": {
+        "duration": "PT5M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "326454",
+        "likeCount": "2747",
+        "favoriteCount": "0",
+        "commentCount": "67"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E5WxZsNrsOdZEDlPPWqMFKy9Zuo",
+      "id": "pNxKT4NLVVQ",
+      "snippet": {
+        "publishedAt": "2026-09-26T20:54:32Z",
+        "channelId": "UCMpZI6EDOXaQW7g4PqiqPHw",
+        "title": "COLOQUEI 100 MIL FC POINTS NO BANQUETA SAF E MONTEI UM TIMAÇO PRO FC 27!!",
+        "description": "Lives: https://www.kick.com/adolfz\nTiktok: https://www.tiktok.com/@adolfzj\nInstagram: https://www.instagram.com/adolfzj/\nTwitter: https://twitter.com/AD0LFZ\n\n#EAFC27\n#PACKS\n#FC27\n\nEquipe de produção:\nhttps://twitter.com/Dukedits (Editor) \nhttps://www.instagram.com/felipesinatra_ (Editor)\nhttps://twitter.com/_ojuniorlima (Thumb)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pNxKT4NLVVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pNxKT4NLVVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pNxKT4NLVVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pNxKT4NLVVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pNxKT4NLVVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AD0LFzZ",
+        "tags": [
+          "Adolfera",
+          "ad0lfzz",
+          "ad0lfz",
+          "ad0lf",
+          "ad0lfo",
+          "adolfo",
+          "adolfzz",
+          "adolfz",
+          "adolf",
+          "ptbr",
+          "pt",
+          "br",
+          "FIFA",
+          "Ultimate",
+          "Team",
+          "FUT",
+          "Dicas",
+          "Portugues",
+          "brasileiro",
+          "Pack Opening",
+          "abrindo pacotes",
+          "Pack",
+          "Opening",
+          "rage",
+          "melhores momentos",
+          "gols",
+          "golaço",
+          "draft",
+          "fut",
+          "next gen",
+          "nova geração",
+          "ps5",
+          "playstation 5",
+          "banqueta",
+          "banqueta fc",
+          "novo fifa",
+          "fc 26",
+          "ea fc 26",
+          "ps5 pro",
+          "ea fc 27",
+          "fc 27",
+          "fifa 27",
+          "efootball",
+          "efootball 2026",
+          "efootball 27",
+          "efootball 2027",
+          "futebol"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "COLOQUEI 100 MIL FC POINTS NO BANQUETA SAF E MONTEI UM TIMAÇO PRO FC 27!!",
+          "description": "Lives: https://www.kick.com/adolfz\nTiktok: https://www.tiktok.com/@adolfzj\nInstagram: https://www.instagram.com/adolfzj/\nTwitter: https://twitter.com/AD0LFZ\n\n#EAFC27\n#PACKS\n#FC27\n\nEquipe de produção:\nhttps://twitter.com/Dukedits (Editor) \nhttps://www.instagram.com/felipesinatra_ (Editor)\nhttps://twitter.com/_ojuniorlima (Thumb)"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT53M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "140621",
+        "likeCount": "4343",
+        "favoriteCount": "0",
+        "commentCount": "150"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sbhBOzv72uIaOguK6FN-cUrENDg",
+      "id": "PepsKHMG6wc",
+      "snippet": {
+        "publishedAt": "2026-09-26T22:52:11Z",
+        "channelId": "UCU2N5dv6YR11WN6uwVzLerA",
+        "title": "Fokes - Número Dois | Karasu Tabito 2 (Blue Lock) ft. @Hawkyyy",
+        "description": "Escute \"Número Dois\" nas plataformas digitais!\nSpotify: Em breve!\n\nREDE SOCIAL \nTWITTER: @fokes\nINSTAGRAM: @fokesmusic\n\nContato Profissional: \nrafaelkenazaz@gmail.com\n------------------------------------------------------------------------------------\n\nFicha Técnica:\n\nVozes: fokes, Hawky, M3guro, KGM, SlowGM\nParticipações:\nHawkyy: Karasu\nM3guro: Isagi\nKGM: Chigiri\nSlowGM: Ego\n???: Ashur4\nComposição: fokes\nMix/Master: @daavdmixing (@society.entertainment)\nAuxiliar de Mixagem: fokes\nInstrumental: ELEVNN\n\nVisual:\n\nTratamento de Thumbnail: SOUAngzin\nIlustração: \u202aSOUAngzin\nDireção Visual: @ikarikjkk\nEdição: PHenriq, Shinn, Osk, Mateeh, Thurzin, Emivê\nCapa Spotify: fokes\nLegendas: Petekavell & Iron Tech\n\nMARCAÇÃO DE TEMPO\n\nIntrodução - (Thurzin): 00:00\nVerso 1 - (PHenriq): 00:15\nPonte - (Shinn): 00:43\nRefrão 1 - (Shinn): 00:51\nRefrão 1.1 - (Emivê): 01:12\nRefrão 1.2 | Hawky - (Shinn): 01:14\nPós-Refrão | SlowGM - (Osk): 01:28\nVerso 2 - (Emivê): 01:57\nRefrão 2 (Emivê): 02:27\nRefrão 2.2 - (Shinn): 02:44\nVerso 3 - (Mateeh): 02:58\nRefrão 3 - (Emivê): 03:12\nRefrão 3.3 - (Shinn): 03:27\nMistério. - 03:41\n\nFokes - Número Dois | Karasu Tabito 2 (Blue Lock) ft. @Hawkyy\nFokes - Número Dois | Karasu Tabito 2 (Blue Lock) ft. @Hawkyy\nFokes - Número Dois | Karasu Tabito 2 (Blue Lock) ft. @Hawkyy\n\n#karasutabito #bluelock #musicageek #rapgeek #geek #geekmusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PepsKHMG6wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PepsKHMG6wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PepsKHMG6wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PepsKHMG6wc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PepsKHMG6wc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/PepsKHMG6wc/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "fokes",
+        "tags": [
+          "geek music",
+          "anime music",
+          "rap de anime",
+          "rap geek",
+          "kaito",
+          "especial",
+          "japao",
+          "blue lock",
+          "blue",
+          "lock",
+          "karasu",
+          "tabito",
+          "karasu tabito",
+          "tabito karasu",
+          "rap",
+          "geek",
+          "music",
+          "musica geek",
+          "musica",
+          "hawky",
+          "seleçao",
+          "bluelock"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-PT",
+        "localized": {
+          "title": "Fokes - Número Dois | Karasu Tabito 2 (Blue Lock) ft. @Hawkyyy",
+          "description": "Escute \"Número Dois\" nas plataformas digitais!\nSpotify: Em breve!\n\nREDE SOCIAL \nTWITTER: @fokes\nINSTAGRAM: @fokesmusic\n\nContato Profissional: \nrafaelkenazaz@gmail.com\n------------------------------------------------------------------------------------\n\nFicha Técnica:\n\nVozes: fokes, Hawky, M3guro, KGM, SlowGM\nParticipações:\nHawkyy: Karasu\nM3guro: Isagi\nKGM: Chigiri\nSlowGM: Ego\n???: Ashur4\nComposição: fokes\nMix/Master: @daavdmixing (@society.entertainment)\nAuxiliar de Mixagem: fokes\nInstrumental: ELEVNN\n\nVisual:\n\nTratamento de Thumbnail: SOUAngzin\nIlustração: \u202aSOUAngzin\nDireção Visual: @ikarikjkk\nEdição: PHenriq, Shinn, Osk, Mateeh, Thurzin, Emivê\nCapa Spotify: fokes\nLegendas: Petekavell & Iron Tech\n\nMARCAÇÃO DE TEMPO\n\nIntrodução - (Thurzin): 00:00\nVerso 1 - (PHenriq): 00:15\nPonte - (Shinn): 00:43\nRefrão 1 - (Shinn): 00:51\nRefrão 1.1 - (Emivê): 01:12\nRefrão 1.2 | Hawky - (Shinn): 01:14\nPós-Refrão | SlowGM - (Osk): 01:28\nVerso 2 - (Emivê): 01:57\nRefrão 2 (Emivê): 02:27\nRefrão 2.2 - (Shinn): 02:44\nVerso 3 - (Mateeh): 02:58\nRefrão 3 - (Emivê): 03:12\nRefrão 3.3 - (Shinn): 03:27\nMistério. - 03:41\n\nFokes - Número Dois | Karasu Tabito 2 (Blue Lock) ft. @Hawkyy\nFokes - Número Dois | Karasu Tabito 2 (Blue Lock) ft. @Hawkyy\nFokes - Número Dois | Karasu Tabito 2 (Blue Lock) ft. @Hawkyy\n\n#karasutabito #bluelock #musicageek #rapgeek #geek #geekmusic"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT4M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "31346",
+        "likeCount": "3389",
+        "favoriteCount": "0",
+        "commentCount": "443"
+      }
+    }
+  ],
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 50
+  }
+}
