@@ -1,4 +1,4 @@
-# YouTube Trending Analytics: Medallion Lakehouse (Phase 2: Bronze and Silver)
+# YouTube Trending Analytics: Medallion Lakehouse 
 
 An end-to-end PySpark pipeline on Databricks that ingests YouTube "most popular" (trending) video data for 10 regions, lands it in a **Bronze** layer, and cleanses it into a **Silver** layer. The design priorities are explicit contracts, idempotency, fault tolerance and full auditing.
 
