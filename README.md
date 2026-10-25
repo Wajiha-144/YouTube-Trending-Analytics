@@ -469,3 +469,21 @@ The Power BI dashboard connects to the Gold-layer analytical tables in Databrick
 
 The dashboard combines business analytics with pipeline observability, making it possible to explore video performance while monitoring data quality and processing outcomes.
 
+
+## Validation and Limitations
+
+### Validation completed
+
+- Verified Gold dimension and fact table row counts.
+- Checked for null identifying keys and duplicate dimension/fact keys.
+- Reran the Gold pipeline and confirmed that the fact table retained 7,059 rows with no duplicate fact-key groups.
+- Confirmed successful execution of both `bronze_to_silver` and `silver_to_gold` in the Databricks job run.
+- Built a Power BI dashboard covering video performance, engagement, pipeline execution, schema drift, and quarantined records.
+
+### Limitations and future improvements
+
+- **Gold rerun behavior:** The tested rerun updated existing fact rows. Stable row counts and unique keys were verified, but complete value-level idempotency has not yet been established.
+- **Data freshness:** Dashboard freshness depends on successful ingestion and pipeline execution.
+- **Data coverage:** Results represent the regions, videos, and snapshot dates available in the ingested datasets.
+- **Future improvements:** Add automated data-quality tests, alerting for failed jobs, and scheduled validation of Gold metrics against the Silver source.
+
