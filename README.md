@@ -270,6 +270,33 @@ Naming: tables live in `workspace.youtube_trending`. **PK** = primary key (enfor
 | `load_timestamp` | timestamp | When detected |
 
 ---
+### Gold layer verification
+
+The Gold pipeline was verified for the date range `2026-09-26` to `2026-10-25`, covering 14 distinct snapshot dates.
+
+| Gold table | Verified rows |
+|---|---:|
+| `gold_dim_date` | 14 |
+| `gold_dim_region` | 10 |
+| `gold_dim_category` | 32 |
+| `gold_dim_channel` | 2,214 |
+| `gold_dim_video` | 3,698 |
+| `gold_fact_video_daily` | 7,059 |
+
+**Integrity results**
+- Null identifying fact keys: 0
+- Duplicate date dimension keys: 0
+- Duplicate fact-key groups (`video_id`, `region_code`, `snapshot_date`): 0
+
+**Rerun evidence**
+
+Proof batch `gold_proof_6dfa4693` completed with status `SUCCESS`. The pipeline read 7,059 source rows, inserted 0 fact rows, updated 7,059 fact rows, and quarantined 0 rows. The fact table remained at 7,059 rows with no duplicate fact-key groups.
+
+This verifies stable row counts and fact-key uniqueness for the tested rerun; it does not independently prove that every non-key column remained unchanged.
+
+**Job automation**
+
+The `youtube_trending_daily` job was run successfully with both `bronze_to_silver` and `silver_to_gold` completing successfully in the same job run.
 
 ## 5. How each requirement is met
 
@@ -423,30 +450,22 @@ The proof notebook (`notebooks/03_proof_of_work.ipynb`) demonstrates:
 4. **Schema drift:** a test file with a new column (`shareCount`), a type change (`"N/A"` view count), numeric values where strings are expected, and a corrupt line. The run completes; the new column is logged, bad records are quarantined, valid records reach Silver.
 5. **Execution log:** every run, for every layer, with parameters, times, status and row counts.
 
-### Gold layer verification
 
-The Gold pipeline was verified for the date range `2026-09-26` to `2026-10-25`, covering 14 distinct snapshot dates.
 
-| Gold table | Verified rows |
-|---|---:|
-| `gold_dim_date` | 14 |
-| `gold_dim_region` | 10 |
-| `gold_dim_category` | 32 |
-| `gold_dim_channel` | 2,214 |
-| `gold_dim_video` | 3,698 |
-| `gold_fact_video_daily` | 7,059 |
+## Power BI Dashboard
 
-**Integrity results**
-- Null identifying fact keys: 0
-- Duplicate date dimension keys: 0
-- Duplicate fact-key groups (`video_id`, `region_code`, `snapshot_date`): 0
+The Power BI dashboard connects to the Gold-layer analytical tables in Databricks to present interactive insights into YouTube trending-video performance.
 
-**Rerun evidence**
+### Dashboard features
 
-Proof batch `gold_proof_6dfa4693` completed with status `SUCCESS`. The pipeline read 7,059 source rows, inserted 0 fact rows, updated 7,059 fact rows, and quarantined 0 rows. The fact table remained at 7,059 rows with no duplicate fact-key groups.
+- **KPI cards:** Total Recorded Views, Total Likes, Total Comments, and Average Engagement Rate.
+- **Time-series analysis:** Recorded Views Over Time.
+- **Category analysis:** Recorded Views by Category.
+- **Regional analysis:** Recorded Views by Region.
+- **Top videos:** Top 10 Videos by recorded views.
+- **Pipeline monitoring:** Pipeline execution status and run history.
+- **Schema drift monitoring:** Schema Drift Audit Log and drift analysis.
+- **Data quality monitoring:** Quarantine KPI, quarantine reasons, and audit log.
 
-This verifies stable row counts and fact-key uniqueness for the tested rerun; it does not independently prove that every non-key column remained unchanged.
+The dashboard combines business analytics with pipeline observability, making it possible to explore video performance while monitoring data quality and processing outcomes.
 
-**Job automation**
-
-The `youtube_trending_daily` job was run successfully with both `bronze_to_silver` and `silver_to_gold` completing successfully in the same job run.
