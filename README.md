@@ -1,10 +1,15 @@
-# YouTube Trending Analytics: Medallion Lakehouse 
+# YouTube Trending Analytics: Medallion Lakehouse
 
-An end-to-end PySpark pipeline on Databricks that ingests YouTube "most popular" (trending) video data for 10 regions, lands it in a **Bronze** layer, and cleanses it into a **Silver** layer. The design priorities are explicit contracts, idempotency, fault tolerance and full auditing.
+An end-to-end YouTube trending analytics project built with PySpark, Databricks, Delta Lake, and Power BI. The project ingests trending-video data across 10 regions, processes it through Bronze, Silver, and Gold layers, and presents analytical insights through an interactive Power BI dashboard.
 
-- **Repository:** `https://github.com/Wajiha-144/YouTube-Trending-Analytics/tree/main`
-- **Platform:** Databricks Free Edition (serverless compute, Unity Catalog, Delta Lake)
-- **Proof of execution:** [`docs/proof/`](docs/proof/) (see [Section 11](#11-proof-of-execution))
+The pipeline emphasizes explicit schemas, data quality, idempotent processing, fault tolerance, audit logging, and repeatable execution.
+
+- **Repository:** https://github.com/Wajiha-144/YouTube-Trending-Analytics
+- **Platform:** Databricks Free Edition, serverless compute, Unity Catalog, and Delta Lake
+- **Analytics:** Power BI dashboard connected to the Gold fact and dimension tables
+- **Automation:** Databricks job with `bronze_to_silver` followed by `silver_to_gold`
+- **Gold verification:** `notebooks/05_gold_proof.ipynb` (confirm its committed path before publishing)
+
 
 ---
 
@@ -42,6 +47,23 @@ Kaggle trending CSVs (optional) ───────────────┘
    SILVER  silver_video_daily      (typed, deduplicated, PII-protected)
            silver_category         (reference)
            silver_quarantine       (bad records, with reasons)
+### Gold layer
+
+The Gold layer provides an analytical star schema for reporting:
+
+- `gold_fact_video_daily` — daily video statistics by video, region, and snapshot date.
+- `gold_dim_date` — date dimension.
+- `gold_dim_region` — region dimension.
+- `gold_dim_category` — category dimension.
+- `gold_dim_channel` — channel dimension.
+- `gold_dim_video` — video dimension.
+
+The Gold tables feed the Power BI dashboard, which presents recorded views, engagement metrics, category and regional comparisons, and top videos.
+
+### Automated execution
+
+The `youtube_trending_daily` Databricks job runs `bronze_to_silver` first and `silver_to_gold` after successful completion of the Silver task. Both tasks completed successfully in the verified job run.
+
 
    OPERATIONAL  pipeline_execution_logs, schema_drift_log
 ```
@@ -397,3 +419,31 @@ The proof notebook (`notebooks/03_proof_of_work.ipynb`) demonstrates:
 3. **Backfill:** one day deleted from Bronze and Silver, then rebuilt from the raw files using parameters only; counts and content hashes match the originals.
 4. **Schema drift:** a test file with a new column (`shareCount`), a type change (`"N/A"` view count), numeric values where strings are expected, and a corrupt line. The run completes; the new column is logged, bad records are quarantined, valid records reach Silver.
 5. **Execution log:** every run, for every layer, with parameters, times, status and row counts.
+
+### Gold layer verification
+
+The Gold pipeline was verified for the date range `2026-09-26` to `2026-10-25`, covering 14 distinct snapshot dates.
+
+| Gold table | Verified rows |
+|---|---:|
+| `gold_dim_date` | 14 |
+| `gold_dim_region` | 10 |
+| `gold_dim_category` | 32 |
+| `gold_dim_channel` | 2,214 |
+| `gold_dim_video` | 3,698 |
+| `gold_fact_video_daily` | 7,059 |
+
+**Integrity results**
+- Null identifying fact keys: 0
+- Duplicate date dimension keys: 0
+- Duplicate fact-key groups (`video_id`, `region_code`, `snapshot_date`): 0
+
+**Rerun evidence**
+
+Proof batch `gold_proof_6dfa4693` completed with status `SUCCESS`. The pipeline read 7,059 source rows, inserted 0 fact rows, updated 7,059 fact rows, and quarantined 0 rows. The fact table remained at 7,059 rows with no duplicate fact-key groups.
+
+This verifies stable row counts and fact-key uniqueness for the tested rerun; it does not independently prove that every non-key column remained unchanged.
+
+**Job automation**
+
+The `youtube_trending_daily` job was run successfully with both `bronze_to_silver` and `silver_to_gold` completing successfully in the same job run.
