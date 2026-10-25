@@ -98,13 +98,16 @@ Every step is a thin notebook that reads parameters and calls a function in `src
 │       ├── api_to_raw.py                # optional: API -> Volume
 │       ├── raw_to_bronze.py             # Raw -> Bronze
 │       ├── reference.py                 # category lookup -> Silver
-│       └── bronze_to_silver.py          # Bronze -> Silver
+│       └── bronze_to_silver.py
+│        └── silver_to_gold.ipynb          # Bronze -> Silver
 ├── notebooks/
 │   ├── 00_setup.py                      # schema + volume
 │   ├── 00b_fetch_youtube_api.ipynb       # optional live API fetch
 │   ├── 01_raw_to_bronze.ipynb
 │   ├── 02_bronze_to_silver.ipynb
-│   └── 03_proof_of_work.ipynb           # schemas, idempotency, backfill, drift, logs
+│   └── 03_proof_of_work.ipynb
+│   ├── 04_silver_to_gold.ipynb
+│   └── 05_gold_proof.ipynb         # schemas, idempotency, backfill, drift, logs
 ├── data/samples/
 │   ├── full_load/                       # full_load_<REGION>_2026-09-26.json
 │   ├── incremental/                     # incremental_<REGION>_2026-09-27.json
